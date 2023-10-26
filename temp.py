@@ -69,7 +69,7 @@ def cluster():
     
     
     
-    file = open(r"https://github.com/khalifehhusain/CS231/blob/main/Moss_community_prc.txt","r")
+    file = open(r"/mount/src/cs231/Moss_community_prc.txt","r")
     if file:
             i=0
             t="           "
@@ -112,7 +112,7 @@ def cluster():
 def adj_list():
     ch=" "
     
-    file = open(r"https://github.com/khalifehhusain/CS231/blob/main/adj_file.txt","r")
+    file = open(r"/mount/src/cs231/adj_file.txt","r")
     
 
     if file:   
