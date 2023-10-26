@@ -119,13 +119,13 @@ def adj_list():
                  if line[0].isdigit():
                       st.write("-"*30)
                       x=line.split()
-                      st.header(x[0]+"_ _"+x[1]+x[2]+x[3])
+                      st.write(":green["+x[0]+"_ _"+x[1]+x[2]+x[3]+"]")
                       st.write("-"*30)
                  elif line[0]=="M":
                      
                      x=line.split()
                      
-                     st.write(x[0][5:]+x[1]+x[2][5:]+x[3]+x[4])
+                     st.write(x[0][5:]+":blue["+x[1]+"]"+x[2][5:]+":blue["+x[3]+"]"+":red["+x[4]+"]")
         file.close()
 
 
