@@ -11,11 +11,7 @@ import numpy as np
 import os
 
 
-stt=os.getcwd()
 
-st.write(stt+stt)
-
-st.write("##HELLO")
 
 def func1(s):
     
