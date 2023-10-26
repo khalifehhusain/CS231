@@ -1,4 +1,4 @@
-ader# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 Spyder Editor
 
@@ -9,6 +9,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import os
+
 
 
 
@@ -60,13 +61,13 @@ def button(line):
 
 
 def cluster():
-            bottom_list_all=[]
-            url="http://moss.stanford.edu/results/6/7588194204467/match"
+    bottom_list_all=[]
+    url="http://moss.stanford.edu/results/6/7588194204467/match"
     
     
     
-            file = open(r"/mount/src/cs231/Moss_community_prc.txt","r")
-
+    file = open(r"C:\Users\Husain\Dropbox\dropox\231-Material\Moss\Moss_community_prc.txt","r")
+    if file:
             i=0
             t="           "
             for line in file:
@@ -99,32 +100,31 @@ def cluster():
             #print(f"{x[0]+t+x[1] : <40}{x[2]+t+x[3] : <40}{x[4] : >6}")
             
             
-            file.close()
-            return bottom_list_all
+    file.close()
+    return bottom_list_all
     
 #bal=cluster()
 
 
 def adj_list():
-        ch=" "
-        
-        file = open(r"/mount/src/cs231/adj_file.txt","r")
-        
+    ch=" "
+    
+    file = open(r"C:\Users\Husain\Dropbox\dropox\231-Material\Moss\adj_file.txt","r")
+    
 
- 
+    if file:   
         for line in file:
-            
             if line[0].isdigit() or line[0].isalpha() or line[0]=="-":
              
                  if line[0].isdigit():
                       st.write("-"*30)
                       x=line.split()
-                      st.write(":green["+x[0]+"_ _"+x[1]+x[2]+x[3]+"]")
+                      st.header(":green["+x[0]+"_ _"+x[1]+x[2]+x[3]+"]")
                       st.write("-"*30)
                  elif line[0]=="M":
                      
                      x=line.split()
-                     
+        
                      st.write(x[0][5:]+":blue["+x[1]+"]"+x[2][5:]+":blue["+x[3]+"]"+":red["+x[4]+"]")
         file.close()
 
