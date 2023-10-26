@@ -127,7 +127,7 @@ def adj_list():
                  elif line[0]=="M":
                      
                      x=line.split()
-        
+                     st.write(x[0][5:]+x[1]+x[2][5:])
                      st.write(x[0][5:]+x[1]+x[2][5:]+x[3]+x[4])
         file.close()
 
