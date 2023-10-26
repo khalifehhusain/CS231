@@ -11,7 +11,7 @@ import numpy as np
 import os
 
 
-
+st.write(os.getcwd())
 
 
 def func1(s):
