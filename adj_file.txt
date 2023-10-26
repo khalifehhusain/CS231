@@ -1,0 +1,998 @@
+Lila-Van-De-Keere
+----------------
+Moss/Hady-Nayef (20%)              Moss/Lila-Van-De-Keere (37%)       36  97
+Moss/Aidan-Swenson (17%)           Moss/Lila-Van-De-Keere (34%)       37 101
+Moss/Cameron-Schwindaman (25%)     Moss/Lila-Van-De-Keere (33%)       34 103
+Moss/Lawrence-Stanley (17%)        Moss/Lila-Van-De-Keere (32%)       31 106
+Moss/Evan-McDonnell (18%)          Moss/Lila-Van-De-Keere (32%)       33 107
+Moss/Lila-Van-De-Keere (30%)       Moss/Treasure-Gibson (14%)         22 114
+Moss/Lila-Van-De-Keere (26%)       Moss/Rodney-Barrow (27%)           36 138
+Moss/Lila-Van-De-Keere (26%)       Moss/Youssef-Rmadi (22%)           24 146
+Moss/Leonardo-Kumar (34%)          Moss/Lila-Van-De-Keere (25%)       34 165
+----------------------------------------------------------
+Rebecca-Wozniak
+----------------
+Moss/Aadi-Kapoor (59%)             Moss/Rebecca-Wozniak (58%)         45 112
+Moss/George-Singletary (51%)       Moss/Rebecca-Wozniak (49%)         45 141
+Moss/Aiden-Martin (52%)            Moss/Rebecca-Wozniak (48%)         37 159
+----------------------------------------------------------
+Jay-Bala
+----------------
+Moss/Jay-Bala (44%)                Moss/Nate-Wygonik (41%)            31 224
+Moss/Jay-Bala (43%)                Moss/Travis-Brooks (43%)           39 231
+----------------------------------------------------------
+Emma-Yaney
+----------------
+Moss/Emma-Yaney (55%)              Moss/Shaun-Bontrager (55%)         56 108
+----------------------------------------------------------
+Tanush-Zutshi
+----------------
+Moss/Tanush-Zutshi (99%)           Moss/Varun-Deep-Singh (99%)        91  29
+Moss/Sai-Sujit-Perla (99%)         Moss/Tanush-Zutshi (99%)           91  31
+Moss/Rohan-Narula (99%)            Moss/Tanush-Zutshi (99%)           91  33
+Moss/Parimal-Raj-Earva-Nagaraj (99%)Moss/Tanush-Zutshi (99%)           91  36
+Moss/Himanshu-Pramod-Kuchekar (99%)Moss/Tanush-Zutshi (99%)          131  40
+Moss/Harshith-Sai-Medasani (99%)   Moss/Tanush-Zutshi (99%)           91  45
+Moss/Chaitanaya-Pilania (94%)      Moss/Tanush-Zutshi (93%)           82  53
+Moss/Tanush-Zutshi (89%)           Moss/Varshil-Medidhi (51%)         78  63
+Moss/Pranesh-Vats (80%)            Moss/Tanush-Zutshi (78%)           62  78
+Moss/Jayesh-Yadav (22%)            Moss/Tanush-Zutshi (49%)           47 150
+----------------------------------------------------------
+Siddharth-Gupta
+----------------
+Moss/Niharika-Kanwar (99%)         Moss/Siddharth-Gupta (84%)        123  10
+Moss/Siddharth-Gupta (51%)         Moss/Tishika-Vashisth (61%)        99  17
+Moss/Siddharth-Gupta (46%)         Moss/Viswateja-Karanam (47%)       93  20
+Moss/Graham-Parent (39%)           Moss/Siddharth-Gupta (18%)         63 209
+Moss/Collin-Shinohara (20%)        Moss/Siddharth-Gupta (18%)         36 216
+Moss/Siddharth-Gupta (17%)         Moss/Zain-Baig (27%)               36 249
+----------------------------------------------------------
+Sean-Nicholson
+----------------
+Moss/Connor-Gorny (20%)            Moss/Sean-Nicholson (17%)          33 178
+----------------------------------------------------------
+Nate-Wygonik
+----------------
+Moss/Dylan-Funkhouser (42%)        Moss/Nate-Wygonik (42%)            41 215
+Moss/Jay-Bala (44%)                Moss/Nate-Wygonik (41%)            31 224
+----------------------------------------------------------
+Omar-Abdulwahhab
+----------------
+Moss/Dina-Alomar (70%)             Moss/Omar-Abdulwahhab (72%)        60  88
+Moss/Aayush-Darjee (45%)           Moss/Omar-Abdulwahhab (46%)        39 169
+----------------------------------------------------------
+Zohar-Yossef
+----------------
+Moss/Kaitlyn-Reif (64%)            Moss/Zohar-Yossef (63%)            81  50
+Moss/Adhiraj-Chanana (42%)         Moss/Zohar-Yossef (52%)            80  72
+----------------------------------------------------------
+Seth-Girtman
+----------------
+Moss/Jack-Turner (55%)             Moss/Seth-Girtman (85%)           128  11
+----------------------------------------------------------
+Tuan-Viet-Huynh
+----------------
+Moss/Hoang-Lam-Pham (38%)          Moss/Tuan-Viet-Huynh (43%)         89  73
+----------------------------------------------------------
+Hady-Nayef
+----------------
+Moss/Aidan-Swenson (64%)           Moss/Hady-Nayef (71%)              96   1
+Moss/Hady-Nayef (66%)              Moss/Treasure-Gibson (57%)         41   3
+Moss/Hady-Nayef (65%)              Moss/Lawrence-Stanley (62%)        48   4
+Moss/Evan-McDonnell (65%)          Moss/Hady-Nayef (62%)              47   6
+Moss/Cameron-Schwindaman (52%)     Moss/Hady-Nayef (38%)              41  16
+Moss/Hady-Nayef (25%)              Moss/Sai-Ajitesh-Kundeti (38%)     27  69
+Moss/Hady-Nayef (22%)              Moss/Youssef-Rmadi (34%)           20  87
+Moss/Hady-Nayef (20%)              Moss/Lila-Van-De-Keere (37%)       36  97
+Moss/Hady-Nayef (14%)              Moss/Leonardo-Kumar (34%)          36 162
+Moss/Hadiur-Thasin (22%)           Moss/Hady-Nayef (14%)              22 163
+Moss/Hady-Nayef (13%)              Moss/Rodney-Barrow (25%)           19 195
+Moss/Emilio-Albarenque (18%)       Moss/Hady-Nayef (12%)               9 239
+----------------------------------------------------------
+Harshith-Sai-Medasani
+----------------
+Moss/Harshith-Sai-Medasani (99%)   Moss/Varun-Deep-Singh (99%)        90  44
+Moss/Harshith-Sai-Medasani (99%)   Moss/Tanush-Zutshi (99%)           91  45
+Moss/Harshith-Sai-Medasani (99%)   Moss/Sai-Sujit-Perla (99%)         90  46
+Moss/Harshith-Sai-Medasani (99%)   Moss/Rohan-Narula (99%)            90  47
+Moss/Harshith-Sai-Medasani (99%)   Moss/Parimal-Raj-Earva-Nagaraj (99%)     90  48
+Moss/Harshith-Sai-Medasani (99%)   Moss/Himanshu-Pramod-Kuchekar (99%)    131  49
+Moss/Chaitanaya-Pilania (94%)      Moss/Harshith-Sai-Medasani (93%)     82  58
+Moss/Harshith-Sai-Medasani (89%)   Moss/Varshil-Medidhi (51%)         78  68
+Moss/Harshith-Sai-Medasani (78%)   Moss/Pranesh-Vats (80%)            62  83
+Moss/Harshith-Sai-Medasani (49%)   Moss/Jayesh-Yadav (22%)            47 155
+----------------------------------------------------------
+Trysten-Klipsch
+----------------
+Moss/Laura-Aloud (22%)             Moss/Trysten-Klipsch (24%)         47 230
+----------------------------------------------------------
+Jiaqi-Wang
+----------------
+Moss/Jiaqi-Wang (41%)              Moss/Michael-Rossin (42%)          73 166
+----------------------------------------------------------
+Hojin-Kim
+----------------
+Moss/George-Singletary (58%)       Moss/Hojin-Kim (53%)               53 118
+Moss/Hojin-Kim (43%)               Moss/Jinghua-Xiang (44%)           35 180
+Moss/Hojin-Kim (41%)               Moss/Walker-Mueller (41%)          49 225
+----------------------------------------------------------
+Georgio-Valentino
+----------------
+Moss/Georgio-Valentino (22%)       Moss/Treasure-Gibson (11%)         34 185
+----------------------------------------------------------
+Mehrshad-Bagherebadian
+----------------
+Moss/Dominic-Rossi (22%)           Moss/Mehrshad-Bagherebadian (23%)     46 240
+----------------------------------------------------------
+Jack-Turner
+----------------
+Moss/Jack-Turner (55%)             Moss/Seth-Girtman (85%)           128  11
+----------------------------------------------------------
+Braxton-Bjornson
+----------------
+Moss/Braxton-Bjornson (27%)        Moss/Christian-Azar (43%)          42 170
+Moss/Aayush-Darjee (42%)           Moss/Braxton-Bjornson (26%)        28 207
+----------------------------------------------------------
+Kaitlyn-Farner
+----------------
+Moss/Ava-Moaiery (28%)             Moss/Kaitlyn-Farner (31%)          68 125
+----------------------------------------------------------
+Alex-Haranczyk
+----------------
+Moss/Alex-Haranczyk (48%)          Moss/Jack-Grabow (45%)             47 135
+----------------------------------------------------------
+Viswateja-Karanam
+----------------
+Moss/Siddharth-Gupta (46%)         Moss/Viswateja-Karanam (47%)       93  20
+Moss/Niharika-Kanwar (54%)         Moss/Viswateja-Karanam (47%)       93  21
+Moss/Tishika-Vashisth (50%)        Moss/Viswateja-Karanam (43%)       90  28
+Moss/Alexander-Lo (24%)            Moss/Viswateja-Karanam (21%)       51 137
+Moss/Christian-Naida (32%)         Moss/Viswateja-Karanam (21%)       50 143
+Moss/Ava-Moaiery (23%)             Moss/Viswateja-Karanam (19%)       75 206
+----------------------------------------------------------
+Varshil-Medidhi
+----------------
+Moss/Varshil-Medidhi (51%)         Moss/Varun-Deep-Singh (89%)        78  62
+Moss/Tanush-Zutshi (89%)           Moss/Varshil-Medidhi (51%)         78  63
+Moss/Sai-Sujit-Perla (89%)         Moss/Varshil-Medidhi (51%)         78  64
+Moss/Rohan-Narula (89%)            Moss/Varshil-Medidhi (51%)         78  65
+Moss/Parimal-Raj-Earva-Nagaraj (89%)Moss/Varshil-Medidhi (51%)         78  66
+Moss/Himanshu-Pramod-Kuchekar (89%)Moss/Varshil-Medidhi (51%)         80  67
+Moss/Harshith-Sai-Medasani (89%)   Moss/Varshil-Medidhi (51%)         78  68
+Moss/Chaitanaya-Pilania (81%)      Moss/Varshil-Medidhi (46%)         65  74
+Moss/Pranesh-Vats (80%)            Moss/Varshil-Medidhi (45%)         61  77
+Moss/Jayesh-Yadav (22%)            Moss/Varshil-Medidhi (28%)         47 149
+----------------------------------------------------------
+Jackson-Messer
+----------------
+Moss/Jackson-Messer (43%)          Moss/Johnathan-Runge (42%)         43 189
+----------------------------------------------------------
+Cameron-Schwindaman
+----------------
+Moss/Cameron-Schwindaman (56%)     Moss/Evan-McDonnell (42%)          50  13
+Moss/Cameron-Schwindaman (55%)     Moss/Lawrence-Stanley (38%)        49  14
+Moss/Aidan-Swenson (35%)           Moss/Cameron-Schwindaman (53%)     45  15
+Moss/Cameron-Schwindaman (52%)     Moss/Hady-Nayef (38%)              41  16
+Moss/Cameron-Schwindaman (47%)     Moss/Treasure-Gibson (29%)         28  19
+Moss/Cameron-Schwindaman (30%)     Moss/Sai-Ajitesh-Kundeti (33%)     23  85
+Moss/Cameron-Schwindaman (29%)     Moss/Youssef-Rmadi (33%)           23  92
+Moss/Cameron-Schwindaman (25%)     Moss/Lila-Van-De-Keere (33%)       34 103
+Moss/Adam-Charboneau (31%)         Moss/Cameron-Schwindaman (22%)     46 120
+Moss/Cameron-Schwindaman (18%)     Moss/Rodney-Barrow (26%)           25 175
+Moss/Cameron-Schwindaman (18%)     Moss/Hadiur-Thasin (22%)           18 179
+Moss/Benjamin-Cannon (21%)         Moss/Cameron-Schwindaman (18%)     21 181
+----------------------------------------------------------
+Kiah-Ellis
+----------------
+Moss/Kiah-Ellis (67%)              Moss/Zachary-Johnson (68%)         48 105
+Moss/Kiah-Ellis (52%)              Moss/Matthew-Mearim (38%)          37 161
+----------------------------------------------------------
+Parimal-Raj-Earva-Nagaraj
+----------------
+Moss/Parimal-Raj-Earva-Nagaraj (99%)Moss/Varun-Deep-Singh (99%)        90  35
+Moss/Parimal-Raj-Earva-Nagaraj (99%)Moss/Tanush-Zutshi (99%)           91  36
+Moss/Parimal-Raj-Earva-Nagaraj (99%)Moss/Sai-Sujit-Perla (99%)         90  37
+Moss/Parimal-Raj-Earva-Nagaraj (99%)Moss/Rohan-Narula (99%)            90  38
+Moss/Himanshu-Pramod-Kuchekar (99%)Moss/Parimal-Raj-Earva-Nagaraj (99%)    131  43
+Moss/Harshith-Sai-Medasani (99%)   Moss/Parimal-Raj-Earva-Nagaraj (99%)     90  48
+Moss/Chaitanaya-Pilania (94%)      Moss/Parimal-Raj-Earva-Nagaraj (93%)     82  56
+Moss/Parimal-Raj-Earva-Nagaraj (89%)Moss/Varshil-Medidhi (51%)         78  66
+Moss/Parimal-Raj-Earva-Nagaraj (78%)Moss/Pranesh-Vats (80%)            62  81
+Moss/Jayesh-Yadav (22%)            Moss/Parimal-Raj-Earva-Nagaraj (49%)     47 153
+----------------------------------------------------------
+Taslima-Khanom
+----------------
+Moss/Jacob-Roginski (20%)          Moss/Taslima-Khanom (32%)          51 188
+Moss/Chanulya-Perera (33%)         Moss/Taslima-Khanom (31%)          50 218
+----------------------------------------------------------
+Michael-Kahl
+----------------
+Moss/Michael-Kahl (50%)            Moss/Tommy-Tran (45%)              75  70
+----------------------------------------------------------
+Trevor-Stevens
+----------------
+Moss/Bram-Sundman (39%)            Moss/Trevor-Stevens (21%)          33 139
+----------------------------------------------------------
+Achintya-Chaganti
+----------------
+Moss/Achintya-Chaganti (67%)       Moss/Charmi-Koppolu (68%)          58  75
+Moss/Achintya-Chaganti (44%)       Moss/Aziz-Jakupovic (46%)          56 131
+Moss/Achintya-Chaganti (37%)       Moss/Johnathan-Runge (41%)         44 220
+Moss/Achintya-Chaganti (36%)       Moss/Audrey-Chen (38%)             59 233
+----------------------------------------------------------
+Matthew-Mearim
+----------------
+Moss/Matthew-Mearim (52%)          Moss/Zachary-Johnson (72%)         52 102
+Moss/Kiah-Ellis (52%)              Moss/Matthew-Mearim (38%)          37 161
+----------------------------------------------------------
+Treasure-Gibson
+----------------
+Moss/Aidan-Swenson (71%)           Moss/Treasure-Gibson (67%)         67   0
+Moss/Hady-Nayef (66%)              Moss/Treasure-Gibson (57%)         41   3
+Moss/Lawrence-Stanley (58%)        Moss/Treasure-Gibson (52%)         34   8
+Moss/Evan-McDonnell (63%)          Moss/Treasure-Gibson (51%)         34   9
+Moss/Cameron-Schwindaman (47%)     Moss/Treasure-Gibson (29%)         28  19
+Moss/Sai-Ajitesh-Kundeti (31%)     Moss/Treasure-Gibson (18%)         14  94
+Moss/Treasure-Gibson (17%)         Moss/Youssef-Rmadi (31%)           13 100
+Moss/Lila-Van-De-Keere (30%)       Moss/Treasure-Gibson (14%)         22 114
+Moss/Rodney-Barrow (29%)           Moss/Treasure-Gibson (13%)         23 126
+Moss/Georgio-Valentino (22%)       Moss/Treasure-Gibson (11%)         34 185
+Moss/Emilio-Albarenque (18%)       Moss/Treasure-Gibson (10%)          9 238
+----------------------------------------------------------
+Krist-Veseli
+----------------
+Moss/Krist-Veseli (37%)            Moss/Tobias-Smith (37%)            44 222
+----------------------------------------------------------
+Kaitlyn-Reif
+----------------
+Moss/Kaitlyn-Reif (64%)            Moss/Zohar-Yossef (63%)            81  50
+Moss/Adhiraj-Chanana (47%)         Moss/Kaitlyn-Reif (60%)            91  60
+----------------------------------------------------------
+Aidan-Hickey
+----------------
+Moss/Abigail-Peck (13%)            Moss/Aidan-Hickey (20%)            52 247
+----------------------------------------------------------
+Aayush-Darjee
+----------------
+Moss/Aayush-Darjee (46%)           Moss/Phuc-Nguyen (23%)             36 145
+Moss/Aayush-Darjee (45%)           Moss/Omar-Abdulwahhab (46%)        39 169
+Moss/Aayush-Darjee (42%)           Moss/Braxton-Bjornson (26%)        28 207
+----------------------------------------------------------
+Olivia-Smythe
+----------------
+Moss/Nhi-Nguyen (39%)              Moss/Olivia-Smythe (56%)           96  61
+----------------------------------------------------------
+Emilio-Albarenque
+----------------
+Moss/Emilio-Albarenque (30%)       Moss/Evan-McDonnell (21%)          39  98
+Moss/Benjamin-Cannon (21%)         Moss/Emilio-Albarenque (20%)       21 184
+Moss/Emilio-Albarenque (19%)       Moss/Lawrence-Stanley (12%)        15 214
+Moss/Emilio-Albarenque (18%)       Moss/Treasure-Gibson (10%)          9 238
+Moss/Emilio-Albarenque (18%)       Moss/Hady-Nayef (12%)               9 239
+Moss/Aidan-Swenson (11%)           Moss/Emilio-Albarenque (18%)        9 245
+----------------------------------------------------------
+John-Pekrul
+----------------
+Moss/Christopher-Kellner (19%)     Moss/John-Pekrul (41%)             37 227
+----------------------------------------------------------
+Alexander-Boville
+----------------
+Moss/Alexander-Boville (25%)       Moss/Elijah-Pang (43%)             33 171
+Moss/Adam-Charboneau (24%)         Moss/Alexander-Boville (22%)       48 246
+----------------------------------------------------------
+Christopher-Kellner
+----------------
+Moss/Christopher-Kellner (22%)     Moss/Vimbainashe-Chado (31%)       57 130
+Moss/Christopher-Kellner (19%)     Moss/John-Pekrul (41%)             37 227
+----------------------------------------------------------
+Delger-Byambasukh
+----------------
+Moss/Delger-Byambasukh (18%)       Moss/Hoang-Lam-Pham (21%)          39 192
+----------------------------------------------------------
+Elliott-Miller
+----------------
+Moss/Cooper-Graber (78%)           Moss/Elliott-Miller (80%)         120  25
+Moss/Elliott-Miller (79%)          Moss/Rahil-Patel (79%)             83  26
+----------------------------------------------------------
+Jadon-Webb
+----------------
+Moss/Jadon-Webb (38%)              Moss/Zachary-Merritt (39%)         56 186
+Moss/Jadon-Webb (38%)              Moss/Xavier-Sink (23%)             56 194
+----------------------------------------------------------
+Shaun-Bontrager
+----------------
+Moss/Emma-Yaney (55%)              Moss/Shaun-Bontrager (55%)         56 108
+----------------------------------------------------------
+Malka-Alfadel
+----------------
+Moss/Malka-Alfadel (27%)           Moss/Reece-Roskam (20%)            36 164
+Moss/Alex-Dallas (29%)             Moss/Malka-Alfadel (26%)           38 182
+----------------------------------------------------------
+Zachary-Johnson
+----------------
+Moss/Matthew-Mearim (52%)          Moss/Zachary-Johnson (72%)         52 102
+Moss/Kiah-Ellis (67%)              Moss/Zachary-Johnson (68%)         48 105
+----------------------------------------------------------
+Rohin-Bugli
+----------------
+Moss/Odrey-Elizabeth-Barreto-Ramirez (56%)Moss/Rohin-Bugli (57%)             59 116
+Moss/Ashok-Kamma (48%)             Moss/Rohin-Bugli (45%)             35 201
+Moss/Rohin-Bugli (43%)             Moss/Samarth-Dhingra (44%)         33 229
+Moss/Quintin-Gutowski (45%)        Moss/Rohin-Bugli (43%)             32 235
+----------------------------------------------------------
+Christian-Azar
+----------------
+Moss/Braxton-Bjornson (27%)        Moss/Christian-Azar (43%)          42 170
+----------------------------------------------------------
+Youssef-Rmadi
+----------------
+Moss/Hady-Nayef (22%)              Moss/Youssef-Rmadi (34%)           20  87
+Moss/Lawrence-Stanley (20%)        Moss/Youssef-Rmadi (34%)           17  89
+Moss/Evan-McDonnell (22%)          Moss/Youssef-Rmadi (34%)           17  90
+Moss/Aidan-Swenson (19%)           Moss/Youssef-Rmadi (34%)           17  91
+Moss/Cameron-Schwindaman (29%)     Moss/Youssef-Rmadi (33%)           23  92
+Moss/Treasure-Gibson (17%)         Moss/Youssef-Rmadi (31%)           13 100
+Moss/Lila-Van-De-Keere (26%)       Moss/Youssef-Rmadi (22%)           24 146
+----------------------------------------------------------
+Leonardo-Kumar
+----------------
+Moss/Aidan-Swenson (15%)           Moss/Leonardo-Kumar (42%)          45 110
+Moss/Leonardo-Kumar (39%)          Moss/Rodney-Barrow (31%)           33 123
+Moss/Hady-Nayef (14%)              Moss/Leonardo-Kumar (34%)          36 162
+Moss/Leonardo-Kumar (34%)          Moss/Lila-Van-De-Keere (25%)       34 165
+----------------------------------------------------------
+Jack-Boylan
+----------------
+Moss/Francisco-Gonzalez-Trevino (99%)Moss/Jack-Boylan (65%)             91  24
+Moss/Jack-Boylan (31%)             Moss/Walker-Mueller (48%)          50 132
+----------------------------------------------------------
+Pranesh-Vats
+----------------
+Moss/Pranesh-Vats (80%)            Moss/Varun-Deep-Singh (78%)        62  76
+Moss/Pranesh-Vats (80%)            Moss/Varshil-Medidhi (45%)         61  77
+Moss/Pranesh-Vats (80%)            Moss/Tanush-Zutshi (78%)           62  78
+Moss/Pranesh-Vats (80%)            Moss/Sai-Sujit-Perla (78%)         62  79
+Moss/Pranesh-Vats (80%)            Moss/Rohan-Narula (78%)            62  80
+Moss/Parimal-Raj-Earva-Nagaraj (78%)Moss/Pranesh-Vats (80%)            62  81
+Moss/Himanshu-Pramod-Kuchekar (78%)Moss/Pranesh-Vats (80%)            64  82
+Moss/Harshith-Sai-Medasani (78%)   Moss/Pranesh-Vats (80%)            62  83
+Moss/Chaitanaya-Pilania (79%)      Moss/Pranesh-Vats (80%)            62  84
+Moss/Jayesh-Yadav (33%)            Moss/Pranesh-Vats (74%)            76  93
+----------------------------------------------------------
+Brady-Wozniak
+----------------
+Moss/Arvind-Kumar (84%)            Moss/Brady-Wozniak (87%)           93  51
+Moss/Brady-Wozniak (47%)           Moss/Bryent-Shepherd (55%)         50 128
+----------------------------------------------------------
+Navya-Malik
+----------------
+Moss/Charmi-Koppolu (39%)          Moss/Navya-Malik (23%)             35 187
+----------------------------------------------------------
+Tishika-Vashisth
+----------------
+Moss/Siddharth-Gupta (51%)         Moss/Tishika-Vashisth (61%)        99  17
+Moss/Niharika-Kanwar (60%)         Moss/Tishika-Vashisth (61%)       101  18
+Moss/Tishika-Vashisth (50%)        Moss/Viswateja-Karanam (43%)       90  28
+Moss/Graham-Parent (39%)           Moss/Tishika-Vashisth (22%)        65 196
+Moss/Chris-Johnson (32%)           Moss/Tishika-Vashisth (21%)        49 241
+Moss/Tishika-Vashisth (21%)        Moss/Zain-Baig (27%)               36 248
+----------------------------------------------------------
+Dina-Alomar
+----------------
+Moss/Dina-Alomar (70%)             Moss/Omar-Abdulwahhab (72%)        60  88
+----------------------------------------------------------
+Travis-Brooks
+----------------
+Moss/Glenn-May (43%)               Moss/Travis-Brooks (44%)           49 213
+Moss/Travis-Brooks (44%)           Moss/Vittorio-DeGrazia (38%)       42 221
+Moss/Jay-Bala (43%)                Moss/Travis-Brooks (43%)           39 231
+----------------------------------------------------------
+Arvind-Kumar
+----------------
+Moss/Arvind-Kumar (84%)            Moss/Brady-Wozniak (87%)           93  51
+Moss/Arvind-Kumar (42%)            Moss/Bryent-Shepherd (51%)         46 144
+----------------------------------------------------------
+Evan-McDonnell
+----------------
+Moss/Aidan-Swenson (58%)           Moss/Evan-McDonnell (67%)          55   5
+Moss/Evan-McDonnell (65%)          Moss/Hady-Nayef (62%)              47   6
+Moss/Evan-McDonnell (64%)          Moss/Lawrence-Stanley (58%)        47   7
+Moss/Evan-McDonnell (63%)          Moss/Treasure-Gibson (51%)         34   9
+Moss/Cameron-Schwindaman (56%)     Moss/Evan-McDonnell (42%)          50  13
+Moss/Evan-McDonnell (28%)          Moss/Sai-Ajitesh-Kundeti (40%)     38  59
+Moss/Evan-McDonnell (22%)          Moss/Youssef-Rmadi (34%)           17  90
+Moss/Emilio-Albarenque (30%)       Moss/Evan-McDonnell (21%)          39  98
+Moss/Evan-McDonnell (18%)          Moss/Lila-Van-De-Keere (32%)       33 107
+Moss/Alex-Dallas (37%)             Moss/Evan-McDonnell (18%)          52 109
+Moss/Benjamin-Cannon (25%)         Moss/Evan-McDonnell (17%)          28 121
+Moss/Evan-McDonnell (15%)          Moss/Michael-Rossin (44%)          38 142
+Moss/Evan-McDonnell (13%)          Moss/Hadiur-Thasin (21%)           15 191
+Moss/Evan-McDonnell (13%)          Moss/Rodney-Barrow (25%)           22 197
+----------------------------------------------------------
+Aniket-Kumar
+----------------
+Moss/Aniket-Kumar (18%)            Moss/Jovan-Grant (53%)             57 127
+Moss/Amit-Chitre (28%)             Moss/Aniket-Kumar (16%)            48 176
+----------------------------------------------------------
+Jake-Pasuit
+----------------
+Moss/Jake-Pasuit (43%)             Moss/Zachary-Merritt (48%)         44 119
+Moss/Jake-Pasuit (36%)             Moss/Kevin-Lowen (41%)             33 167
+----------------------------------------------------------
+George-Singletary
+----------------
+Moss/George-Singletary (58%)       Moss/Hojin-Kim (53%)               53 118
+Moss/Aadi-Kapoor (54%)             Moss/George-Singletary (54%)       40 129
+Moss/George-Singletary (51%)       Moss/Rebecca-Wozniak (49%)         45 141
+Moss/George-Singletary (48%)       Moss/Luke-Rayborn (47%)            35 173
+Moss/Emily-Graham (47%)            Moss/George-Singletary (46%)       40 199
+----------------------------------------------------------
+Bryent-Shepherd
+----------------
+Moss/Brady-Wozniak (47%)           Moss/Bryent-Shepherd (55%)         50 128
+Moss/Arvind-Kumar (42%)            Moss/Bryent-Shepherd (51%)         46 144
+Moss/Bryent-Shepherd (45%)         Moss/Jacob-Jackson (40%)           36 228
+----------------------------------------------------------
+Rodney-Barrow
+----------------
+Moss/Aidan-Swenson (18%)           Moss/Rodney-Barrow (38%)           43  99
+Moss/Leonardo-Kumar (39%)          Moss/Rodney-Barrow (31%)           33 123
+Moss/Rodney-Barrow (29%)           Moss/Treasure-Gibson (13%)         23 126
+Moss/Lila-Van-De-Keere (26%)       Moss/Rodney-Barrow (27%)           36 138
+Moss/Cameron-Schwindaman (18%)     Moss/Rodney-Barrow (26%)           25 175
+Moss/Lawrence-Stanley (12%)        Moss/Rodney-Barrow (25%)           19 193
+Moss/Hady-Nayef (13%)              Moss/Rodney-Barrow (25%)           19 195
+Moss/Evan-McDonnell (13%)          Moss/Rodney-Barrow (25%)           22 197
+----------------------------------------------------------
+Alex-Dallas
+----------------
+Moss/Alex-Dallas (37%)             Moss/Evan-McDonnell (18%)          52 109
+Moss/Alex-Dallas (29%)             Moss/Malka-Alfadel (26%)           38 182
+----------------------------------------------------------
+Laura-Aloud
+----------------
+Moss/Kartik-Pillai (19%)           Moss/Laura-Aloud (24%)             60 157
+Moss/Laura-Aloud (22%)             Moss/Trysten-Klipsch (24%)         47 230
+----------------------------------------------------------
+Jovan-Grant
+----------------
+Moss/Aniket-Kumar (18%)            Moss/Jovan-Grant (53%)             57 127
+Moss/Jovan-Grant (44%)             Moss/Julius-Ross (45%)             48 203
+----------------------------------------------------------
+Josh-Dalka
+----------------
+Moss/Josh-Dalka (18%)              Moss/Kartik-Pillai (16%)           51 236
+----------------------------------------------------------
+Rohan-Narula
+----------------
+Moss/Rohan-Narula (99%)            Moss/Varun-Deep-Singh (99%)        90  32
+Moss/Rohan-Narula (99%)            Moss/Tanush-Zutshi (99%)           91  33
+Moss/Rohan-Narula (99%)            Moss/Sai-Sujit-Perla (99%)         90  34
+Moss/Parimal-Raj-Earva-Nagaraj (99%)Moss/Rohan-Narula (99%)            90  38
+Moss/Himanshu-Pramod-Kuchekar (99%)Moss/Rohan-Narula (99%)           131  42
+Moss/Harshith-Sai-Medasani (99%)   Moss/Rohan-Narula (99%)            90  47
+Moss/Chaitanaya-Pilania (94%)      Moss/Rohan-Narula (93%)            82  55
+Moss/Rohan-Narula (89%)            Moss/Varshil-Medidhi (51%)         78  65
+Moss/Pranesh-Vats (80%)            Moss/Rohan-Narula (78%)            62  80
+Moss/Jayesh-Yadav (22%)            Moss/Rohan-Narula (49%)            47 152
+----------------------------------------------------------
+Rahil-Patel
+----------------
+Moss/Elliott-Miller (79%)          Moss/Rahil-Patel (79%)             83  26
+Moss/Cooper-Graber (74%)           Moss/Rahil-Patel (76%)            108  27
+----------------------------------------------------------
+Cooper-Graber
+----------------
+Moss/Cooper-Graber (78%)           Moss/Elliott-Miller (80%)         120  25
+Moss/Cooper-Graber (74%)           Moss/Rahil-Patel (76%)            108  27
+----------------------------------------------------------
+Erik-Gonzalez-Zamora
+----------------
+Moss/Erik-Gonzalez-Zamora (61%)    Moss/Sean-Robert-Kirby (37%)       76  95
+Moss/Erik-Gonzalez-Zamora (61%)    Moss/Samuel-Horowitz (38%)         63  96
+Moss/Brenden-Smith (46%)           Moss/Erik-Gonzalez-Zamora (37%)     67 232
+----------------------------------------------------------
+Tae-Ma
+----------------
+Moss/Tae-Ma (25%)                  Moss/Vishal-Chandu (27%)           45 172
+----------------------------------------------------------
+Tommy-Tran
+----------------
+Moss/Michael-Kahl (50%)            Moss/Tommy-Tran (45%)              75  70
+----------------------------------------------------------
+Himanshu-Pramod-Kuchekar
+----------------
+Moss/Himanshu-Pramod-Kuchekar (99%)Moss/Varun-Deep-Singh (99%)       131  39
+Moss/Himanshu-Pramod-Kuchekar (99%)Moss/Tanush-Zutshi (99%)          131  40
+Moss/Himanshu-Pramod-Kuchekar (99%)Moss/Sai-Sujit-Perla (99%)        131  41
+Moss/Himanshu-Pramod-Kuchekar (99%)Moss/Rohan-Narula (99%)           131  42
+Moss/Himanshu-Pramod-Kuchekar (99%)Moss/Parimal-Raj-Earva-Nagaraj (99%)    131  43
+Moss/Harshith-Sai-Medasani (99%)   Moss/Himanshu-Pramod-Kuchekar (99%)    131  49
+Moss/Chaitanaya-Pilania (94%)      Moss/Himanshu-Pramod-Kuchekar (93%)     84  57
+Moss/Himanshu-Pramod-Kuchekar (89%)Moss/Varshil-Medidhi (51%)         80  67
+Moss/Himanshu-Pramod-Kuchekar (78%)Moss/Pranesh-Vats (80%)            64  82
+Moss/Himanshu-Pramod-Kuchekar (49%)Moss/Jayesh-Yadav (22%)            47 154
+----------------------------------------------------------
+William-Fiedler
+----------------
+Moss/Vaishnavi-. (40%)             Moss/William-Fiedler (38%)         47 202
+----------------------------------------------------------
+Jacob-Jackson
+----------------
+Moss/Dylan-Funkhouser (42%)        Moss/Jacob-Jackson (41%)           50 211
+Moss/Bryent-Shepherd (45%)         Moss/Jacob-Jackson (40%)           36 228
+----------------------------------------------------------
+Aziz-Jakupovic
+----------------
+Moss/Aziz-Jakupovic (50%)          Moss/Evan-Guzek (30%)              46 113
+Moss/Achintya-Chaganti (44%)       Moss/Aziz-Jakupovic (46%)          56 131
+Moss/Aziz-Jakupovic (37%)          Moss/Elijah-Pang (39%)             44 242
+Moss/Aziz-Jakupovic (37%)          Moss/Caleb-Blackwell (39%)         44 243
+----------------------------------------------------------
+Kartik-Pillai
+----------------
+Moss/Kartik-Pillai (22%)           Moss/Nil-Okur (35%)                71 115
+Moss/Alexander-Lo (27%)            Moss/Kartik-Pillai (21%)           73 122
+Moss/Ava-Moaiery (26%)             Moss/Kartik-Pillai (19%)           75 140
+Moss/Kartik-Pillai (19%)           Moss/Varun-Verma (28%)             52 147
+Moss/Kartik-Pillai (19%)           Moss/Laura-Aloud (24%)             60 157
+Moss/Josh-Dalka (18%)              Moss/Kartik-Pillai (16%)           51 236
+----------------------------------------------------------
+Sean-Robert-Kirby
+----------------
+Moss/Samuel-Horowitz (59%)         Moss/Sean-Robert-Kirby (58%)      120  23
+Moss/Erik-Gonzalez-Zamora (61%)    Moss/Sean-Robert-Kirby (37%)       76  95
+----------------------------------------------------------
+Nil-Okur
+----------------
+Moss/Kartik-Pillai (22%)           Moss/Nil-Okur (35%)                71 115
+----------------------------------------------------------
+Walker-Mueller
+----------------
+Moss/Jack-Boylan (31%)             Moss/Walker-Mueller (48%)          50 132
+Moss/Francisco-Gonzalez-Trevino (48%)Moss/Walker-Mueller (48%)          50 133
+Moss/Hojin-Kim (41%)               Moss/Walker-Mueller (41%)          49 225
+----------------------------------------------------------
+Akshat-Wadhwa
+----------------
+Moss/Akshat-Wadhwa (29%)           Moss/Sai-Narayanan (27%)           44 177
+Moss/Akshat-Wadhwa (27%)           Moss/Jacob-Veit (23%)              34 244
+----------------------------------------------------------
+Xavier-Sink
+----------------
+Moss/Jadon-Webb (38%)              Moss/Xavier-Sink (23%)             56 194
+----------------------------------------------------------
+Jacob-Roginski
+----------------
+Moss/Jacob-Roginski (20%)          Moss/Taslima-Khanom (32%)          51 188
+----------------------------------------------------------
+Vimbainashe-Chado
+----------------
+Moss/Christopher-Kellner (22%)     Moss/Vimbainashe-Chado (31%)       57 130
+Moss/Vimbainashe-Chado (25%)       Moss/Vishal-Chandu (25%)           39 234
+----------------------------------------------------------
+Ayden-Bottrell
+----------------
+Moss/Ayden-Bottrell (45%)          Moss/Garrett-Sibley (57%)          47 104
+----------------------------------------------------------
+Adam-Charboneau
+----------------
+Moss/Adam-Charboneau (31%)         Moss/Cameron-Schwindaman (22%)     46 120
+Moss/Adam-Charboneau (24%)         Moss/Alexander-Boville (22%)       48 246
+----------------------------------------------------------
+Tobias-Smith
+----------------
+Moss/Krist-Veseli (37%)            Moss/Tobias-Smith (37%)            44 222
+----------------------------------------------------------
+Ashok-Kamma
+----------------
+Moss/Ashok-Kamma (48%)             Moss/Rohin-Bugli (45%)             35 201
+----------------------------------------------------------
+Alexander-Lo
+----------------
+Moss/Alexander-Lo (27%)            Moss/Kartik-Pillai (21%)           73 122
+Moss/Alexander-Lo (24%)            Moss/Viswateja-Karanam (21%)       51 137
+----------------------------------------------------------
+Zachary-Roseman
+----------------
+Moss/Glenn-May (42%)               Moss/Zachary-Roseman (37%)         42 237
+----------------------------------------------------------
+Amit-Chitre
+----------------
+Moss/Amit-Chitre (28%)             Moss/Aniket-Kumar (16%)            48 176
+----------------------------------------------------------
+Ethan-Hall
+----------------
+Moss/Ethan-Hall (71%)              Moss/Josephine-Cowles (66%)       127  12
+----------------------------------------------------------
+Nhi-Nguyen
+----------------
+Moss/Nhi-Nguyen (39%)              Moss/Olivia-Smythe (56%)           96  61
+Moss/Nhi-Nguyen (21%)              Moss/Yashika-Desai (49%)           44 134
+----------------------------------------------------------
+Aadi-Kapoor
+----------------
+Moss/Aadi-Kapoor (59%)             Moss/Rebecca-Wozniak (58%)         45 112
+Moss/Aadi-Kapoor (54%)             Moss/George-Singletary (54%)       40 129
+----------------------------------------------------------
+Dominic-Pressley
+----------------
+Moss/Dominic-Pressley (45%)        Moss/Graham-Parent (47%)           68 124
+----------------------------------------------------------
+Luis-Ortega-Saure
+----------------
+Moss/Jack-Kettner (95%)            Moss/Luis-Ortega-Saure (96%)       88  22
+----------------------------------------------------------
+Phuc-Nguyen
+----------------
+Moss/Aayush-Darjee (46%)           Moss/Phuc-Nguyen (23%)             36 145
+----------------------------------------------------------
+Zain-Baig
+----------------
+Moss/Tishika-Vashisth (21%)        Moss/Zain-Baig (27%)               36 248
+Moss/Siddharth-Gupta (17%)         Moss/Zain-Baig (27%)               36 249
+----------------------------------------------------------
+Samuel-Horowitz
+----------------
+Moss/Samuel-Horowitz (59%)         Moss/Sean-Robert-Kirby (58%)      120  23
+Moss/Erik-Gonzalez-Zamora (61%)    Moss/Samuel-Horowitz (38%)         63  96
+----------------------------------------------------------
+Julius-Ross
+----------------
+Moss/Jovan-Grant (44%)             Moss/Julius-Ross (45%)             48 203
+----------------------------------------------------------
+Collin-Shinohara
+----------------
+Moss/Collin-Shinohara (20%)        Moss/Siddharth-Gupta (18%)         36 216
+Moss/Collin-Shinohara (20%)        Moss/Niharika-Kanwar (21%)         36 217
+Moss/Collin-Shinohara (20%)        Moss/Zachary-Merritt (37%)         42 226
+----------------------------------------------------------
+John-Heyboer
+----------------
+Moss/John-Heyboer (35%)            Moss/Vittorio-DeGrazia (38%)       46 223
+----------------------------------------------------------
+Reece-Roskam
+----------------
+Moss/Malka-Alfadel (27%)           Moss/Reece-Roskam (20%)            36 164
+----------------------------------------------------------
+Lawrence-Stanley
+----------------
+Moss/Aidan-Swenson (63%)           Moss/Lawrence-Stanley (66%)        65   2
+Moss/Hady-Nayef (65%)              Moss/Lawrence-Stanley (62%)        48   4
+Moss/Evan-McDonnell (64%)          Moss/Lawrence-Stanley (58%)        47   7
+Moss/Lawrence-Stanley (58%)        Moss/Treasure-Gibson (52%)         34   8
+Moss/Cameron-Schwindaman (55%)     Moss/Lawrence-Stanley (38%)        49  14
+Moss/Lawrence-Stanley (23%)        Moss/Sai-Ajitesh-Kundeti (37%)     28  71
+Moss/Lawrence-Stanley (20%)        Moss/Youssef-Rmadi (34%)           17  89
+Moss/Lawrence-Stanley (17%)        Moss/Lila-Van-De-Keere (32%)       31 106
+Moss/Hadiur-Thasin (21%)           Moss/Lawrence-Stanley (12%)        14 190
+Moss/Lawrence-Stanley (12%)        Moss/Rodney-Barrow (25%)           19 193
+Moss/Benjamin-Cannon (20%)         Moss/Lawrence-Stanley (12%)        16 205
+Moss/Emilio-Albarenque (19%)       Moss/Lawrence-Stanley (12%)        15 214
+----------------------------------------------------------
+Abigail-Peck
+----------------
+Moss/Abigail-Peck (13%)            Moss/Aidan-Hickey (20%)            52 247
+----------------------------------------------------------
+Lisa-Wu
+----------------
+Moss/Grant-Hamlin (48%)            Moss/Lisa-Wu (49%)                 49 117
+----------------------------------------------------------
+Vittorio-DeGrazia
+----------------
+Moss/Travis-Brooks (44%)           Moss/Vittorio-DeGrazia (38%)       42 221
+Moss/John-Heyboer (35%)            Moss/Vittorio-DeGrazia (38%)       46 223
+----------------------------------------------------------
+Garrett-Sibley
+----------------
+Moss/Ayden-Bottrell (45%)          Moss/Garrett-Sibley (57%)          47 104
+Moss/Elijah-Pang (45%)             Moss/Garrett-Sibley (45%)          50 158
+----------------------------------------------------------
+Niharika-Kanwar
+----------------
+Moss/Niharika-Kanwar (99%)         Moss/Siddharth-Gupta (84%)        123  10
+Moss/Niharika-Kanwar (60%)         Moss/Tishika-Vashisth (61%)       101  18
+Moss/Niharika-Kanwar (54%)         Moss/Viswateja-Karanam (47%)       93  21
+Moss/Graham-Parent (39%)           Moss/Niharika-Kanwar (21%)         63 210
+Moss/Collin-Shinohara (20%)        Moss/Niharika-Kanwar (21%)         36 217
+----------------------------------------------------------
+Jacob-Waligora
+----------------
+Moss/Jacob-Veit (31%)              Moss/Jacob-Waligora (32%)          54 111
+----------------------------------------------------------
+Charmi-Koppolu
+----------------
+Moss/Achintya-Chaganti (67%)       Moss/Charmi-Koppolu (68%)          58  75
+Moss/Charmi-Koppolu (39%)          Moss/Navya-Malik (23%)             35 187
+----------------------------------------------------------
+Elijah-Pang
+----------------
+Moss/Elijah-Pang (45%)             Moss/Garrett-Sibley (45%)          50 158
+Moss/Alexander-Boville (25%)       Moss/Elijah-Pang (43%)             33 171
+Moss/Aziz-Jakupovic (37%)          Moss/Elijah-Pang (39%)             44 242
+----------------------------------------------------------
+Audrey-Chen
+----------------
+Moss/Audrey-Chen (39%)             Moss/Johnathan-Runge (41%)         53 212
+Moss/Achintya-Chaganti (36%)       Moss/Audrey-Chen (38%)             59 233
+----------------------------------------------------------
+Glenn-May
+----------------
+Moss/Glenn-May (43%)               Moss/Travis-Brooks (44%)           49 213
+Moss/Glenn-May (42%)               Moss/Zachary-Roseman (37%)         42 237
+----------------------------------------------------------
+Bram-Sundman
+----------------
+Moss/Bram-Sundman (39%)            Moss/Trevor-Stevens (21%)          33 139
+----------------------------------------------------------
+Connor-Gorny
+----------------
+Moss/Connor-Gorny (20%)            Moss/Sean-Nicholson (17%)          33 178
+----------------------------------------------------------
+Christian-Naida
+----------------
+Moss/Christian-Naida (32%)         Moss/Viswateja-Karanam (21%)       50 143
+Moss/Caden-Carrithers (31%)        Moss/Christian-Naida (29%)         52 204
+----------------------------------------------------------
+Chanulya-Perera
+----------------
+Moss/Chanulya-Perera (33%)         Moss/Taslima-Khanom (31%)          50 218
+----------------------------------------------------------
+Hoang-Lam-Pham
+----------------
+Moss/Hoang-Lam-Pham (38%)          Moss/Tuan-Viet-Huynh (43%)         89  73
+Moss/Delger-Byambasukh (18%)       Moss/Hoang-Lam-Pham (21%)          39 192
+----------------------------------------------------------
+Dylan-Funkhouser
+----------------
+Moss/Cal-Dybicz (41%)              Moss/Dylan-Funkhouser (48%)        62 136
+Moss/Dylan-Funkhouser (45%)        Moss/Samarth-Dhingra (48%)         41 174
+Moss/Dylan-Funkhouser (43%)        Moss/Odrey-Elizabeth-Barreto-Ramirez (44%)     36 200
+Moss/Dylan-Funkhouser (42%)        Moss/Jacob-Jackson (41%)           50 211
+Moss/Dylan-Funkhouser (42%)        Moss/Nate-Wygonik (42%)            41 215
+----------------------------------------------------------
+Samarth-Dhingra
+----------------
+Moss/Dylan-Funkhouser (45%)        Moss/Samarth-Dhingra (48%)         41 174
+Moss/Rohin-Bugli (43%)             Moss/Samarth-Dhingra (44%)         33 229
+----------------------------------------------------------
+Josephine-Cowles
+----------------
+Moss/Ethan-Hall (71%)              Moss/Josephine-Cowles (66%)       127  12
+----------------------------------------------------------
+Caleb-Blackwell
+----------------
+Moss/Caleb-Blackwell (40%)         Moss/Evan-Guzek (23%)              39 219
+Moss/Aziz-Jakupovic (37%)          Moss/Caleb-Blackwell (39%)         44 243
+----------------------------------------------------------
+Aidan-Swenson
+----------------
+Moss/Aidan-Swenson (71%)           Moss/Treasure-Gibson (67%)         67   0
+Moss/Aidan-Swenson (64%)           Moss/Hady-Nayef (71%)              96   1
+Moss/Aidan-Swenson (63%)           Moss/Lawrence-Stanley (66%)        65   2
+Moss/Aidan-Swenson (58%)           Moss/Evan-McDonnell (67%)          55   5
+Moss/Aidan-Swenson (35%)           Moss/Cameron-Schwindaman (53%)     45  15
+Moss/Aidan-Swenson (20%)           Moss/Sai-Ajitesh-Kundeti (33%)     20  86
+Moss/Aidan-Swenson (19%)           Moss/Youssef-Rmadi (34%)           17  91
+Moss/Aidan-Swenson (18%)           Moss/Rodney-Barrow (38%)           43  99
+Moss/Aidan-Swenson (17%)           Moss/Lila-Van-De-Keere (34%)       37 101
+Moss/Aidan-Swenson (15%)           Moss/Leonardo-Kumar (42%)          45 110
+Moss/Aidan-Swenson (12%)           Moss/Hadiur-Thasin (23%)           23 160
+Moss/Aidan-Swenson (12%)           Moss/Benjamin-Cannon (21%)         21 183
+Moss/Aidan-Swenson (11%)           Moss/Emilio-Albarenque (18%)        9 245
+----------------------------------------------------------
+Benjamin-Cannon
+----------------
+Moss/Benjamin-Cannon (25%)         Moss/Evan-McDonnell (17%)          28 121
+Moss/Benjamin-Cannon (21%)         Moss/Cameron-Schwindaman (18%)     21 181
+Moss/Aidan-Swenson (12%)           Moss/Benjamin-Cannon (21%)         21 183
+Moss/Benjamin-Cannon (21%)         Moss/Emilio-Albarenque (20%)       21 184
+Moss/Benjamin-Cannon (20%)         Moss/Lawrence-Stanley (12%)        16 205
+----------------------------------------------------------
+Kevin-Lowen
+----------------
+Moss/Jake-Pasuit (36%)             Moss/Kevin-Lowen (41%)             33 167
+----------------------------------------------------------
+Grant-Hamlin
+----------------
+Moss/Grant-Hamlin (48%)            Moss/Lisa-Wu (49%)                 49 117
+----------------------------------------------------------
+Hadiur-Thasin
+----------------
+Moss/Aidan-Swenson (12%)           Moss/Hadiur-Thasin (23%)           23 160
+Moss/Hadiur-Thasin (22%)           Moss/Hady-Nayef (14%)              22 163
+Moss/Cameron-Schwindaman (18%)     Moss/Hadiur-Thasin (22%)           18 179
+Moss/Hadiur-Thasin (21%)           Moss/Lawrence-Stanley (12%)        14 190
+Moss/Evan-McDonnell (13%)          Moss/Hadiur-Thasin (21%)           15 191
+----------------------------------------------------------
+Francisco-Gonzalez-Trevino
+----------------
+Moss/Francisco-Gonzalez-Trevino (99%)Moss/Jack-Boylan (65%)             91  24
+Moss/Francisco-Gonzalez-Trevino (48%)Moss/Walker-Mueller (48%)          50 133
+----------------------------------------------------------
+Zachary-Merritt
+----------------
+Moss/Jake-Pasuit (43%)             Moss/Zachary-Merritt (48%)         44 119
+Moss/Jadon-Webb (38%)              Moss/Zachary-Merritt (39%)         56 186
+Moss/Collin-Shinohara (20%)        Moss/Zachary-Merritt (37%)         42 226
+----------------------------------------------------------
+Aiden-Martin
+----------------
+Moss/Aiden-Martin (52%)            Moss/Rebecca-Wozniak (48%)         37 159
+----------------------------------------------------------
+Jayesh-Yadav
+----------------
+Moss/Jayesh-Yadav (33%)            Moss/Pranesh-Vats (74%)            76  93
+Moss/Jayesh-Yadav (22%)            Moss/Varun-Deep-Singh (49%)        47 148
+Moss/Jayesh-Yadav (22%)            Moss/Varshil-Medidhi (28%)         47 149
+Moss/Jayesh-Yadav (22%)            Moss/Tanush-Zutshi (49%)           47 150
+Moss/Jayesh-Yadav (22%)            Moss/Sai-Sujit-Perla (49%)         47 151
+Moss/Jayesh-Yadav (22%)            Moss/Rohan-Narula (49%)            47 152
+Moss/Jayesh-Yadav (22%)            Moss/Parimal-Raj-Earva-Nagaraj (49%)     47 153
+Moss/Himanshu-Pramod-Kuchekar (49%)Moss/Jayesh-Yadav (22%)            47 154
+Moss/Harshith-Sai-Medasani (49%)   Moss/Jayesh-Yadav (22%)            47 155
+Moss/Chaitanaya-Pilania (49%)      Moss/Jayesh-Yadav (22%)            47 156
+----------------------------------------------------------
+Jack-Kettner
+----------------
+Moss/Jack-Kettner (95%)            Moss/Luis-Ortega-Saure (96%)       88  22
+----------------------------------------------------------
+Yashika-Desai
+----------------
+Moss/Nhi-Nguyen (21%)              Moss/Yashika-Desai (49%)           44 134
+----------------------------------------------------------
+Graham-Parent
+----------------
+Moss/Dominic-Pressley (45%)        Moss/Graham-Parent (47%)           68 124
+Moss/Graham-Parent (42%)           Moss/Jack-Grabow (42%)             77 168
+Moss/Graham-Parent (39%)           Moss/Tishika-Vashisth (22%)        65 196
+Moss/Graham-Parent (39%)           Moss/Siddharth-Gupta (18%)         63 209
+Moss/Graham-Parent (39%)           Moss/Niharika-Kanwar (21%)         63 210
+----------------------------------------------------------
+Jacob-Veit
+----------------
+Moss/Jacob-Veit (31%)              Moss/Jacob-Waligora (32%)          54 111
+Moss/Akshat-Wadhwa (27%)           Moss/Jacob-Veit (23%)              34 244
+----------------------------------------------------------
+Jack-Grabow
+----------------
+Moss/Alex-Haranczyk (48%)          Moss/Jack-Grabow (45%)             47 135
+Moss/Graham-Parent (42%)           Moss/Jack-Grabow (42%)             77 168
+----------------------------------------------------------
+Chaitanaya-Pilania
+----------------
+Moss/Chaitanaya-Pilania (94%)      Moss/Varun-Deep-Singh (93%)        82  52
+Moss/Chaitanaya-Pilania (94%)      Moss/Tanush-Zutshi (93%)           82  53
+Moss/Chaitanaya-Pilania (94%)      Moss/Sai-Sujit-Perla (93%)         82  54
+Moss/Chaitanaya-Pilania (94%)      Moss/Rohan-Narula (93%)            82  55
+Moss/Chaitanaya-Pilania (94%)      Moss/Parimal-Raj-Earva-Nagaraj (93%)     82  56
+Moss/Chaitanaya-Pilania (94%)      Moss/Himanshu-Pramod-Kuchekar (93%)     84  57
+Moss/Chaitanaya-Pilania (94%)      Moss/Harshith-Sai-Medasani (93%)     82  58
+Moss/Chaitanaya-Pilania (81%)      Moss/Varshil-Medidhi (46%)         65  74
+Moss/Chaitanaya-Pilania (79%)      Moss/Pranesh-Vats (80%)            62  84
+Moss/Chaitanaya-Pilania (49%)      Moss/Jayesh-Yadav (22%)            47 156
+----------------------------------------------------------
+Vaishnavi-.
+----------------
+Moss/Vaishnavi-. (40%)             Moss/William-Fiedler (38%)         47 202
+----------------------------------------------------------
+Sai-Sujit-Perla
+----------------
+Moss/Sai-Sujit-Perla (99%)         Moss/Varun-Deep-Singh (99%)        90  30
+Moss/Sai-Sujit-Perla (99%)         Moss/Tanush-Zutshi (99%)           91  31
+Moss/Rohan-Narula (99%)            Moss/Sai-Sujit-Perla (99%)         90  34
+Moss/Parimal-Raj-Earva-Nagaraj (99%)Moss/Sai-Sujit-Perla (99%)         90  37
+Moss/Himanshu-Pramod-Kuchekar (99%)Moss/Sai-Sujit-Perla (99%)        131  41
+Moss/Harshith-Sai-Medasani (99%)   Moss/Sai-Sujit-Perla (99%)         90  46
+Moss/Chaitanaya-Pilania (94%)      Moss/Sai-Sujit-Perla (93%)         82  54
+Moss/Sai-Sujit-Perla (89%)         Moss/Varshil-Medidhi (51%)         78  64
+Moss/Pranesh-Vats (80%)            Moss/Sai-Sujit-Perla (78%)         62  79
+Moss/Jayesh-Yadav (22%)            Moss/Sai-Sujit-Perla (49%)         47 151
+----------------------------------------------------------
+Michael-Rossin
+----------------
+Moss/Evan-McDonnell (15%)          Moss/Michael-Rossin (44%)          38 142
+Moss/Jiaqi-Wang (41%)              Moss/Michael-Rossin (42%)          73 166
+----------------------------------------------------------
+Johnathan-Runge
+----------------
+Moss/Jackson-Messer (43%)          Moss/Johnathan-Runge (42%)         43 189
+Moss/Audrey-Chen (39%)             Moss/Johnathan-Runge (41%)         53 212
+Moss/Achintya-Chaganti (37%)       Moss/Johnathan-Runge (41%)         44 220
+----------------------------------------------------------
+Chris-Johnson
+----------------
+Moss/Chris-Johnson (32%)           Moss/Tishika-Vashisth (21%)        49 241
+----------------------------------------------------------
+Caden-Carrithers
+----------------
+Moss/Caden-Carrithers (31%)        Moss/Christian-Naida (29%)         52 204
+----------------------------------------------------------
+Odrey-Elizabeth-Barreto-Ramirez
+----------------
+Moss/Odrey-Elizabeth-Barreto-Ramirez (56%)Moss/Rohin-Bugli (57%)             59 116
+Moss/Dylan-Funkhouser (43%)        Moss/Odrey-Elizabeth-Barreto-Ramirez (44%)     36 200
+Moss/Odrey-Elizabeth-Barreto-Ramirez (43%)Moss/Quintin-Gutowski (47%)        31 208
+----------------------------------------------------------
+Emily-Graham
+----------------
+Moss/Emily-Graham (47%)            Moss/Luke-Rayborn (45%)            41 198
+Moss/Emily-Graham (47%)            Moss/George-Singletary (46%)       40 199
+----------------------------------------------------------
+Brenden-Smith
+----------------
+Moss/Brenden-Smith (46%)           Moss/Erik-Gonzalez-Zamora (37%)     67 232
+----------------------------------------------------------
+Adhiraj-Chanana
+----------------
+Moss/Adhiraj-Chanana (47%)         Moss/Kaitlyn-Reif (60%)            91  60
+Moss/Adhiraj-Chanana (42%)         Moss/Zohar-Yossef (52%)            80  72
+----------------------------------------------------------
+Jinghua-Xiang
+----------------
+Moss/Hojin-Kim (43%)               Moss/Jinghua-Xiang (44%)           35 180
+----------------------------------------------------------
+Quintin-Gutowski
+----------------
+Moss/Odrey-Elizabeth-Barreto-Ramirez (43%)Moss/Quintin-Gutowski (47%)        31 208
+Moss/Quintin-Gutowski (45%)        Moss/Rohin-Bugli (43%)             32 235
+----------------------------------------------------------
+Sai-Narayanan
+----------------
+Moss/Akshat-Wadhwa (29%)           Moss/Sai-Narayanan (27%)           44 177
+----------------------------------------------------------
+Sai-Ajitesh-Kundeti
+----------------
+Moss/Evan-McDonnell (28%)          Moss/Sai-Ajitesh-Kundeti (40%)     38  59
+Moss/Hady-Nayef (25%)              Moss/Sai-Ajitesh-Kundeti (38%)     27  69
+Moss/Lawrence-Stanley (23%)        Moss/Sai-Ajitesh-Kundeti (37%)     28  71
+Moss/Cameron-Schwindaman (30%)     Moss/Sai-Ajitesh-Kundeti (33%)     23  85
+Moss/Aidan-Swenson (20%)           Moss/Sai-Ajitesh-Kundeti (33%)     20  86
+Moss/Sai-Ajitesh-Kundeti (31%)     Moss/Treasure-Gibson (18%)         14  94
+----------------------------------------------------------
+Ava-Moaiery
+----------------
+Moss/Ava-Moaiery (28%)             Moss/Kaitlyn-Farner (31%)          68 125
+Moss/Ava-Moaiery (26%)             Moss/Kartik-Pillai (19%)           75 140
+Moss/Ava-Moaiery (23%)             Moss/Viswateja-Karanam (19%)       75 206
+----------------------------------------------------------
+Cal-Dybicz
+----------------
+Moss/Cal-Dybicz (41%)              Moss/Dylan-Funkhouser (48%)        62 136
+----------------------------------------------------------
+Dominic-Rossi
+----------------
+Moss/Dominic-Rossi (22%)           Moss/Mehrshad-Bagherebadian (23%)     46 240
+----------------------------------------------------------
+Varun-Verma
+----------------
+Moss/Kartik-Pillai (19%)           Moss/Varun-Verma (28%)             52 147
+----------------------------------------------------------
+Evan-Guzek
+----------------
+Moss/Aziz-Jakupovic (50%)          Moss/Evan-Guzek (30%)              46 113
+Moss/Caleb-Blackwell (40%)         Moss/Evan-Guzek (23%)              39 219
+----------------------------------------------------------
+Varun-Deep-Singh
+----------------
+Moss/Tanush-Zutshi (99%)           Moss/Varun-Deep-Singh (99%)        91  29
+Moss/Sai-Sujit-Perla (99%)         Moss/Varun-Deep-Singh (99%)        90  30
+Moss/Rohan-Narula (99%)            Moss/Varun-Deep-Singh (99%)        90  32
+Moss/Parimal-Raj-Earva-Nagaraj (99%)Moss/Varun-Deep-Singh (99%)        90  35
+Moss/Himanshu-Pramod-Kuchekar (99%)Moss/Varun-Deep-Singh (99%)       131  39
+Moss/Harshith-Sai-Medasani (99%)   Moss/Varun-Deep-Singh (99%)        90  44
+Moss/Chaitanaya-Pilania (94%)      Moss/Varun-Deep-Singh (93%)        82  52
+Moss/Varshil-Medidhi (51%)         Moss/Varun-Deep-Singh (89%)        78  62
+Moss/Pranesh-Vats (80%)            Moss/Varun-Deep-Singh (78%)        62  76
+Moss/Jayesh-Yadav (22%)            Moss/Varun-Deep-Singh (49%)        47 148
+----------------------------------------------------------
+Luke-Rayborn
+----------------
+Moss/George-Singletary (48%)       Moss/Luke-Rayborn (47%)            35 173
+Moss/Emily-Graham (47%)            Moss/Luke-Rayborn (45%)            41 198
+----------------------------------------------------------
+Vishal-Chandu
+----------------
+Moss/Tae-Ma (25%)                  Moss/Vishal-Chandu (27%)           45 172
+Moss/Vimbainashe-Chado (25%)       Moss/Vishal-Chandu (25%)           39 234
+----------------------------------------------------------

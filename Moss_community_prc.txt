@@ -1,0 +1,696 @@
+28 Clusters
+###################################################
+
+1) 34 : people :  Lila-Van-De-Keere  Hady-Nayef  Jiaqi-Wang  Georgio-Valentino  Jackson-Messer  Cameron-Schwindaman  Achintya-Chaganti  Treasure-Gibson  Emilio-Albarenque  Alexander-Boville  Malka-Alfadel  Youssef-Rmadi  Leonardo-Kumar  Navya-Malik  Evan-McDonnell  Rodney-Barrow  Alex-Dallas  Aziz-Jakupovic  Ayden-Bottrell  Adam-Charboneau  Reece-Roskam  Lawrence-Stanley  Garrett-Sibley  Charmi-Koppolu  Elijah-Pang  Audrey-Chen  Caleb-Blackwell  Aidan-Swenson  Benjamin-Cannon  Hadiur-Thasin  Michael-Rossin  Johnathan-Runge  Sai-Ajitesh-Kundeti  Evan-Guzek    : %14 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Aidan-Swenson (71%)                Treasure-Gibson (67%)              67    138
+
+Aidan-Swenson (64%)                Hady-Nayef (71%)                   96    135
+
+Achintya-Chaganti (67%)            Charmi-Koppolu (68%)               58    135
+
+Aidan-Swenson (58%)                Evan-McDonnell (67%)               55    125
+
+Aidan-Swenson (63%)                Lawrence-Stanley (66%)             65    129
+
+Hady-Nayef (66%)                   Treasure-Gibson (57%)              41    123
+
+Hady-Nayef (65%)                   Lawrence-Stanley (62%)             48    127
+
+Evan-McDonnell (65%)               Hady-Nayef (62%)                   47    127
+
+Evan-McDonnell (64%)               Lawrence-Stanley (58%)             47    122
+
+Evan-McDonnell (63%)               Treasure-Gibson (51%)              34    114
+
+Lawrence-Stanley (58%)             Treasure-Gibson (52%)              34    110
+
+Ayden-Bottrell (45%)               Garrett-Sibley (57%)               47    102
+
+Cameron-Schwindaman (56%)          Evan-McDonnell (42%)               50     98
+
+Cameron-Schwindaman (55%)          Lawrence-Stanley (38%)             49     93
+
+Aidan-Swenson (35%)                Cameron-Schwindaman (53%)          45     88
+
+Cameron-Schwindaman (52%)          Hady-Nayef (38%)                   41     90
+
+Aziz-Jakupovic (50%)               Evan-Guzek (30%)                   46     80
+
+Cameron-Schwindaman (47%)          Treasure-Gibson (29%)              28     76
+
+Achintya-Chaganti (44%)            Aziz-Jakupovic (46%)               56     90
+
+Elijah-Pang (45%)                  Garrett-Sibley (45%)               50     90
+
+Evan-McDonnell (15%)               Michael-Rossin (44%)               38     59
+
+Jackson-Messer (43%)               Johnathan-Runge (42%)              43     85
+
+Alexander-Boville (25%)            Elijah-Pang (43%)                  33     68
+
+Jiaqi-Wang (41%)                   Michael-Rossin (42%)               73     83
+
+Aidan-Swenson (15%)                Leonardo-Kumar (42%)               45     57
+
+Audrey-Chen (39%)                  Johnathan-Runge (41%)              53     80
+
+Achintya-Chaganti (37%)            Johnathan-Runge (41%)              44     78
+
+Evan-McDonnell (28%)               Sai-Ajitesh-Kundeti (40%)          38     68
+
+Caleb-Blackwell (40%)              Evan-Guzek (23%)                   39     63
+
+Aziz-Jakupovic (37%)               Elijah-Pang (39%)                  44     76
+
+Aziz-Jakupovic (37%)               Caleb-Blackwell (39%)              44     76
+
+Leonardo-Kumar (39%)               Rodney-Barrow (31%)                33     70
+
+Charmi-Koppolu (39%)               Navya-Malik (23%)                  35     62
+
+Achintya-Chaganti (36%)            Audrey-Chen (38%)                  59     74
+
+Hady-Nayef (25%)                   Sai-Ajitesh-Kundeti (38%)          27     63
+
+Aidan-Swenson (18%)                Rodney-Barrow (38%)                43     56
+
+Lawrence-Stanley (23%)             Sai-Ajitesh-Kundeti (37%)          28     60
+
+Hady-Nayef (20%)                   Lila-Van-De-Keere (37%)            36     57
+
+Alex-Dallas (37%)                  Evan-McDonnell (18%)               52     55
+
+Leonardo-Kumar (34%)               Lila-Van-De-Keere (25%)            34     59
+
+Hady-Nayef (22%)                   Youssef-Rmadi (34%)                20     56
+
+Evan-McDonnell (22%)               Youssef-Rmadi (34%)                17     56
+
+Lawrence-Stanley (20%)             Youssef-Rmadi (34%)                17     54
+
+Aidan-Swenson (19%)                Youssef-Rmadi (34%)                17     53
+
+Aidan-Swenson (17%)                Lila-Van-De-Keere (34%)            37     51
+
+Hady-Nayef (14%)                   Leonardo-Kumar (34%)               36     48
+
+Cameron-Schwindaman (30%)          Sai-Ajitesh-Kundeti (33%)          23     63
+
+Cameron-Schwindaman (29%)          Youssef-Rmadi (33%)                23     62
+
+Cameron-Schwindaman (25%)          Lila-Van-De-Keere (33%)            34     58
+
+Aidan-Swenson (20%)                Sai-Ajitesh-Kundeti (33%)          20     53
+
+Evan-McDonnell (18%)               Lila-Van-De-Keere (32%)            33     50
+
+Lawrence-Stanley (17%)             Lila-Van-De-Keere (32%)            31     49
+
+Adam-Charboneau (31%)              Cameron-Schwindaman (22%)          46     53
+
+Sai-Ajitesh-Kundeti (31%)          Treasure-Gibson (18%)              14     49
+
+Treasure-Gibson (17%)              Youssef-Rmadi (31%)                13     48
+
+Emilio-Albarenque (30%)            Evan-McDonnell (21%)               39     51
+
+Lila-Van-De-Keere (30%)            Treasure-Gibson (14%)              22     44
+
+Alex-Dallas (29%)                  Malka-Alfadel (26%)                38     55
+
+Rodney-Barrow (29%)                Treasure-Gibson (13%)              23     42
+
+Lila-Van-De-Keere (26%)            Rodney-Barrow (27%)                36     53
+
+Malka-Alfadel (27%)                Reece-Roskam (20%)                 36     47
+
+Lila-Van-De-Keere (26%)            Youssef-Rmadi (22%)                24     48
+
+Cameron-Schwindaman (18%)          Rodney-Barrow (26%)                25     44
+
+Benjamin-Cannon (25%)              Evan-McDonnell (17%)               28     42
+
+Evan-McDonnell (13%)               Rodney-Barrow (25%)                22     38
+
+Hady-Nayef (13%)                   Rodney-Barrow (25%)                19     38
+
+Lawrence-Stanley (12%)             Rodney-Barrow (25%)                19     37
+
+Adam-Charboneau (24%)              Alexander-Boville (22%)            48     46
+
+Aidan-Swenson (12%)                Hadiur-Thasin (23%)                23     35
+
+Cameron-Schwindaman (18%)          Hadiur-Thasin (22%)                18     40
+
+Hadiur-Thasin (22%)                Hady-Nayef (14%)                   22     36
+
+Georgio-Valentino (22%)            Treasure-Gibson (11%)              34     33
+
+Benjamin-Cannon (21%)              Emilio-Albarenque (20%)            21     41
+
+Benjamin-Cannon (21%)              Cameron-Schwindaman (18%)          21     39
+
+Evan-McDonnell (13%)               Hadiur-Thasin (21%)                15     34
+
+Aidan-Swenson (12%)                Benjamin-Cannon (21%)              21     33
+
+Hadiur-Thasin (21%)                Lawrence-Stanley (12%)             14     33
+
+Benjamin-Cannon (20%)              Lawrence-Stanley (12%)             16     32
+
+Emilio-Albarenque (19%)            Lawrence-Stanley (12%)             15     31
+
+Emilio-Albarenque (18%)            Hady-Nayef (12%)                    9     30
+
+Aidan-Swenson (11%)                Emilio-Albarenque (18%)             9     29
+
+Emilio-Albarenque (18%)            Treasure-Gibson (10%)               9     28
+
+
+###################################################
+
+2) 11 : people :  Rebecca-Wozniak  Hojin-Kim  Jack-Boylan  George-Singletary  Walker-Mueller  Aadi-Kapoor  Francisco-Gonzalez-Trevino  Aiden-Martin  Emily-Graham  Jinghua-Xiang  Luke-Rayborn    : %23 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Francisco-Gonzalez-Trevino (99%)   Jack-Boylan (65%)                  91    164
+
+Aadi-Kapoor (59%)                  Rebecca-Wozniak (58%)              45    117
+
+George-Singletary (58%)            Hojin-Kim (53%)                    53    111
+
+Aadi-Kapoor (54%)                  George-Singletary (54%)            40    108
+
+Aiden-Martin (52%)                 Rebecca-Wozniak (48%)              37    100
+
+George-Singletary (51%)            Rebecca-Wozniak (49%)              45    100
+
+Francisco-Gonzalez-Trevino (48%)   Walker-Mueller (48%)               50     96
+
+George-Singletary (48%)            Luke-Rayborn (47%)                 35     95
+
+Jack-Boylan (31%)                  Walker-Mueller (48%)               50     79
+
+Emily-Graham (47%)                 George-Singletary (46%)            40     93
+
+Emily-Graham (47%)                 Luke-Rayborn (45%)                 41     92
+
+Hojin-Kim (43%)                    Jinghua-Xiang (44%)                35     87
+
+Hojin-Kim (41%)                    Walker-Mueller (41%)               49     82
+
+
+###################################################
+
+3) 18 : people :  Jay-Bala  Nate-Wygonik  Rohin-Bugli  Brady-Wozniak  Travis-Brooks  Arvind-Kumar  Bryent-Shepherd  Jacob-Jackson  Ashok-Kamma  Zachary-Roseman  John-Heyboer  Vittorio-DeGrazia  Glenn-May  Dylan-Funkhouser  Samarth-Dhingra  Odrey-Elizabeth-Barreto-Ramirez  Quintin-Gutowski  Cal-Dybicz    : %13 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Arvind-Kumar (84%)                 Brady-Wozniak (87%)                93    171
+
+Odrey-Elizabeth-Barreto-Ramirez (56%)Rohin-Bugli (57%)                  59    113
+
+Brady-Wozniak (47%)                Bryent-Shepherd (55%)              50    102
+
+Arvind-Kumar (42%)                 Bryent-Shepherd (51%)              46     93
+
+Dylan-Funkhouser (45%)             Samarth-Dhingra (48%)              41     93
+
+Ashok-Kamma (48%)                  Rohin-Bugli (45%)                  35     93
+
+Cal-Dybicz (41%)                   Dylan-Funkhouser (48%)             62     89
+
+Odrey-Elizabeth-Barreto-Ramirez (43%)Quintin-Gutowski (47%)             31     90
+
+Quintin-Gutowski (45%)             Rohin-Bugli (43%)                  32     88
+
+Bryent-Shepherd (45%)              Jacob-Jackson (40%)                36     85
+
+Glenn-May (43%)                    Travis-Brooks (44%)                49     87
+
+Dylan-Funkhouser (43%)             Odrey-Elizabeth-Barreto-Ramirez (44%)     36     87
+
+Rohin-Bugli (43%)                  Samarth-Dhingra (44%)              33     87
+
+Jay-Bala (44%)                     Nate-Wygonik (41%)                 31     85
+
+Travis-Brooks (44%)                Vittorio-DeGrazia (38%)            42     82
+
+Jay-Bala (43%)                     Travis-Brooks (43%)                39     86
+
+Dylan-Funkhouser (42%)             Nate-Wygonik (42%)                 41     84
+
+Dylan-Funkhouser (42%)             Jacob-Jackson (41%)                50     83
+
+Glenn-May (42%)                    Zachary-Roseman (37%)              42     79
+
+John-Heyboer (35%)                 Vittorio-DeGrazia (38%)            46     73
+
+
+###################################################
+
+4) 2 : people :  Emma-Yaney  Shaun-Bontrager    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Emma-Yaney (55%)                   Shaun-Bontrager (55%)              56    110
+
+
+###################################################
+
+5) 11 : people :  Tanush-Zutshi  Harshith-Sai-Medasani  Varshil-Medidhi  Parimal-Raj-Earva-Nagaraj  Pranesh-Vats  Rohan-Narula  Himanshu-Pramod-Kuchekar  Jayesh-Yadav  Chaitanaya-Pilania  Sai-Sujit-Perla  Varun-Deep-Singh    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Harshith-Sai-Medasani (99%)        Himanshu-Pramod-Kuchekar (99%)    131    198
+
+Himanshu-Pramod-Kuchekar (99%)     Sai-Sujit-Perla (99%)             131    198
+
+Himanshu-Pramod-Kuchekar (99%)     Parimal-Raj-Earva-Nagaraj (99%)    131    198
+
+Himanshu-Pramod-Kuchekar (99%)     Varun-Deep-Singh (99%)            131    198
+
+Himanshu-Pramod-Kuchekar (99%)     Rohan-Narula (99%)                131    198
+
+Himanshu-Pramod-Kuchekar (99%)     Tanush-Zutshi (99%)               131    198
+
+Parimal-Raj-Earva-Nagaraj (99%)    Tanush-Zutshi (99%)                91    198
+
+Rohan-Narula (99%)                 Tanush-Zutshi (99%)                91    198
+
+Sai-Sujit-Perla (99%)              Tanush-Zutshi (99%)                91    198
+
+Harshith-Sai-Medasani (99%)        Tanush-Zutshi (99%)                91    198
+
+Tanush-Zutshi (99%)                Varun-Deep-Singh (99%)             91    198
+
+Rohan-Narula (99%)                 Sai-Sujit-Perla (99%)              90    198
+
+Rohan-Narula (99%)                 Varun-Deep-Singh (99%)             90    198
+
+Harshith-Sai-Medasani (99%)        Sai-Sujit-Perla (99%)              90    198
+
+Parimal-Raj-Earva-Nagaraj (99%)    Rohan-Narula (99%)                 90    198
+
+Parimal-Raj-Earva-Nagaraj (99%)    Sai-Sujit-Perla (99%)              90    198
+
+Harshith-Sai-Medasani (99%)        Rohan-Narula (99%)                 90    198
+
+Sai-Sujit-Perla (99%)              Varun-Deep-Singh (99%)             90    198
+
+Harshith-Sai-Medasani (99%)        Parimal-Raj-Earva-Nagaraj (99%)     90    198
+
+Parimal-Raj-Earva-Nagaraj (99%)    Varun-Deep-Singh (99%)             90    198
+
+Harshith-Sai-Medasani (99%)        Varun-Deep-Singh (99%)             90    198
+
+Chaitanaya-Pilania (94%)           Himanshu-Pramod-Kuchekar (93%)     84    187
+
+Chaitanaya-Pilania (94%)           Rohan-Narula (93%)                 82    187
+
+Chaitanaya-Pilania (94%)           Varun-Deep-Singh (93%)             82    187
+
+Chaitanaya-Pilania (94%)           Tanush-Zutshi (93%)                82    187
+
+Chaitanaya-Pilania (94%)           Parimal-Raj-Earva-Nagaraj (93%)     82    187
+
+Chaitanaya-Pilania (94%)           Sai-Sujit-Perla (93%)              82    187
+
+Chaitanaya-Pilania (94%)           Harshith-Sai-Medasani (93%)        82    187
+
+Himanshu-Pramod-Kuchekar (89%)     Varshil-Medidhi (51%)              80    140
+
+Harshith-Sai-Medasani (89%)        Varshil-Medidhi (51%)              78    140
+
+Sai-Sujit-Perla (89%)              Varshil-Medidhi (51%)              78    140
+
+Rohan-Narula (89%)                 Varshil-Medidhi (51%)              78    140
+
+Tanush-Zutshi (89%)                Varshil-Medidhi (51%)              78    140
+
+Parimal-Raj-Earva-Nagaraj (89%)    Varshil-Medidhi (51%)              78    140
+
+Varshil-Medidhi (51%)              Varun-Deep-Singh (89%)             78    140
+
+Chaitanaya-Pilania (81%)           Varshil-Medidhi (46%)              65    127
+
+Chaitanaya-Pilania (79%)           Pranesh-Vats (80%)                 62    159
+
+Himanshu-Pramod-Kuchekar (78%)     Pranesh-Vats (80%)                 64    158
+
+Pranesh-Vats (80%)                 Varun-Deep-Singh (78%)             62    158
+
+Pranesh-Vats (80%)                 Rohan-Narula (78%)                 62    158
+
+Harshith-Sai-Medasani (78%)        Pranesh-Vats (80%)                 62    158
+
+Parimal-Raj-Earva-Nagaraj (78%)    Pranesh-Vats (80%)                 62    158
+
+Pranesh-Vats (80%)                 Tanush-Zutshi (78%)                62    158
+
+Pranesh-Vats (80%)                 Sai-Sujit-Perla (78%)              62    158
+
+Pranesh-Vats (80%)                 Varshil-Medidhi (45%)              61    125
+
+Jayesh-Yadav (33%)                 Pranesh-Vats (74%)                 76    107
+
+Jayesh-Yadav (22%)                 Sai-Sujit-Perla (49%)              47     71
+
+Jayesh-Yadav (22%)                 Varun-Deep-Singh (49%)             47     71
+
+Chaitanaya-Pilania (49%)           Jayesh-Yadav (22%)                 47     71
+
+Jayesh-Yadav (22%)                 Rohan-Narula (49%)                 47     71
+
+Jayesh-Yadav (22%)                 Tanush-Zutshi (49%)                47     71
+
+Jayesh-Yadav (22%)                 Parimal-Raj-Earva-Nagaraj (49%)     47     71
+
+Himanshu-Pramod-Kuchekar (49%)     Jayesh-Yadav (22%)                 47     71
+
+Harshith-Sai-Medasani (49%)        Jayesh-Yadav (22%)                 47     71
+
+Jayesh-Yadav (22%)                 Varshil-Medidhi (28%)              47     50
+
+
+###################################################
+
+6) 27 : people :  Siddharth-Gupta  Trysten-Klipsch  Kaitlyn-Farner  Alex-Haranczyk  Viswateja-Karanam  Jadon-Webb  Tishika-Vashisth  Jake-Pasuit  Laura-Aloud  Josh-Dalka  Kartik-Pillai  Nil-Okur  Xavier-Sink  Alexander-Lo  Dominic-Pressley  Zain-Baig  Collin-Shinohara  Niharika-Kanwar  Christian-Naida  Kevin-Lowen  Zachary-Merritt  Graham-Parent  Jack-Grabow  Chris-Johnson  Caden-Carrithers  Ava-Moaiery  Varun-Verma    : %9 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Niharika-Kanwar (99%)              Siddharth-Gupta (84%)             123    183
+
+Niharika-Kanwar (60%)              Tishika-Vashisth (61%)            101    121
+
+Siddharth-Gupta (51%)              Tishika-Vashisth (61%)             99    112
+
+Niharika-Kanwar (54%)              Viswateja-Karanam (47%)            93    101
+
+Tishika-Vashisth (50%)             Viswateja-Karanam (43%)            90     93
+
+Alex-Haranczyk (48%)               Jack-Grabow (45%)                  47     93
+
+Jake-Pasuit (43%)                  Zachary-Merritt (48%)              44     91
+
+Siddharth-Gupta (46%)              Viswateja-Karanam (47%)            93     93
+
+Dominic-Pressley (45%)             Graham-Parent (47%)                68     92
+
+Graham-Parent (42%)                Jack-Grabow (42%)                  77     84
+
+Jake-Pasuit (36%)                  Kevin-Lowen (41%)                  33     77
+
+Jadon-Webb (38%)                   Zachary-Merritt (39%)              56     77
+
+Graham-Parent (39%)                Tishika-Vashisth (22%)             65     61
+
+Graham-Parent (39%)                Niharika-Kanwar (21%)              63     60
+
+Graham-Parent (39%)                Siddharth-Gupta (18%)              63     57
+
+Jadon-Webb (38%)                   Xavier-Sink (23%)                  56     61
+
+Collin-Shinohara (20%)             Zachary-Merritt (37%)              42     57
+
+Kartik-Pillai (22%)                Nil-Okur (35%)                     71     57
+
+Christian-Naida (32%)              Viswateja-Karanam (21%)            50     53
+
+Chris-Johnson (32%)                Tishika-Vashisth (21%)             49     53
+
+Caden-Carrithers (31%)             Christian-Naida (29%)              52     60
+
+Ava-Moaiery (28%)                  Kaitlyn-Farner (31%)               68     59
+
+Kartik-Pillai (19%)                Varun-Verma (28%)                  52     47
+
+Alexander-Lo (27%)                 Kartik-Pillai (21%)                73     48
+
+Tishika-Vashisth (21%)             Zain-Baig (27%)                    36     48
+
+Siddharth-Gupta (17%)              Zain-Baig (27%)                    36     44
+
+Ava-Moaiery (26%)                  Kartik-Pillai (19%)                75     45
+
+Laura-Aloud (22%)                  Trysten-Klipsch (24%)              47     46
+
+Alexander-Lo (24%)                 Viswateja-Karanam (21%)            51     45
+
+Kartik-Pillai (19%)                Laura-Aloud (24%)                  60     43
+
+Ava-Moaiery (23%)                  Viswateja-Karanam (19%)            75     42
+
+Collin-Shinohara (20%)             Niharika-Kanwar (21%)              36     41
+
+Collin-Shinohara (20%)             Siddharth-Gupta (18%)              36     38
+
+Josh-Dalka (18%)                   Kartik-Pillai (16%)                51     34
+
+
+###################################################
+
+7) 2 : people :  Sean-Nicholson  Connor-Gorny    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Connor-Gorny (20%)                 Sean-Nicholson (17%)               33     37
+
+
+###################################################
+
+8) 6 : people :  Omar-Abdulwahhab  Braxton-Bjornson  Aayush-Darjee  Christian-Azar  Dina-Alomar  Phuc-Nguyen    : %33 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Dina-Alomar (70%)                  Omar-Abdulwahhab (72%)             60    142
+
+Aayush-Darjee (45%)                Omar-Abdulwahhab (46%)             39     91
+
+Aayush-Darjee (46%)                Phuc-Nguyen (23%)                  36     69
+
+Braxton-Bjornson (27%)             Christian-Azar (43%)               42     70
+
+Aayush-Darjee (42%)                Braxton-Bjornson (26%)             28     68
+
+
+###################################################
+
+9) 3 : people :  Zohar-Yossef  Kaitlyn-Reif  Adhiraj-Chanana    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Kaitlyn-Reif (64%)                 Zohar-Yossef (63%)                 81    127
+
+Adhiraj-Chanana (47%)              Kaitlyn-Reif (60%)                 91    107
+
+Adhiraj-Chanana (42%)              Zohar-Yossef (52%)                 80     94
+
+
+###################################################
+
+10) 2 : people :  Seth-Girtman  Jack-Turner    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Jack-Turner (55%)                  Seth-Girtman (85%)                128    140
+
+
+###################################################
+
+11) 3 : people :  Tuan-Viet-Huynh  Delger-Byambasukh  Hoang-Lam-Pham    : %66 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Hoang-Lam-Pham (38%)               Tuan-Viet-Huynh (43%)              89     81
+
+Delger-Byambasukh (18%)            Hoang-Lam-Pham (21%)               39     39
+
+
+###################################################
+
+12) 2 : people :  Mehrshad-Bagherebadian  Dominic-Rossi    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Dominic-Rossi (22%)                Mehrshad-Bagherebadian (23%)       46     45
+
+
+###################################################
+
+13) 3 : people :  Kiah-Ellis  Matthew-Mearim  Zachary-Johnson    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Matthew-Mearim (52%)               Zachary-Johnson (72%)              52    124
+
+Kiah-Ellis (67%)                   Zachary-Johnson (68%)              48    135
+
+Kiah-Ellis (52%)                   Matthew-Mearim (38%)               37     90
+
+
+###################################################
+
+14) 3 : people :  Taslima-Khanom  Jacob-Roginski  Chanulya-Perera    : %66 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Chanulya-Perera (33%)              Taslima-Khanom (31%)               50     64
+
+Jacob-Roginski (20%)               Taslima-Khanom (32%)               51     52
+
+
+###################################################
+
+15) 2 : people :  Michael-Kahl  Tommy-Tran    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Michael-Kahl (50%)                 Tommy-Tran (45%)                   75     95
+
+
+###################################################
+
+16) 2 : people :  Trevor-Stevens  Bram-Sundman    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Bram-Sundman (39%)                 Trevor-Stevens (21%)               33     60
+
+
+###################################################
+
+17) 2 : people :  Krist-Veseli  Tobias-Smith    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Krist-Veseli (37%)                 Tobias-Smith (37%)                 44     74
+
+
+###################################################
+
+18) 2 : people :  Aidan-Hickey  Abigail-Peck    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Abigail-Peck (13%)                 Aidan-Hickey (20%)                 52     33
+
+
+###################################################
+
+19) 3 : people :  Olivia-Smythe  Nhi-Nguyen  Yashika-Desai    : %66 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Nhi-Nguyen (39%)                   Olivia-Smythe (56%)                96     95
+
+Nhi-Nguyen (21%)                   Yashika-Desai (49%)                44     70
+
+
+###################################################
+
+20) 5 : people :  John-Pekrul  Christopher-Kellner  Tae-Ma  Vimbainashe-Chado  Vishal-Chandu    : %40 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Christopher-Kellner (19%)          John-Pekrul (41%)                  37     60
+
+Christopher-Kellner (22%)          Vimbainashe-Chado (31%)            57     53
+
+Tae-Ma (25%)                       Vishal-Chandu (27%)                45     52
+
+Vimbainashe-Chado (25%)            Vishal-Chandu (25%)                39     50
+
+
+###################################################
+
+21) 3 : people :  Elliott-Miller  Rahil-Patel  Cooper-Graber    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Cooper-Graber (78%)                Elliott-Miller (80%)              120    158
+
+Elliott-Miller (79%)               Rahil-Patel (79%)                  83    158
+
+Cooper-Graber (74%)                Rahil-Patel (76%)                 108    150
+
+
+###################################################
+
+22) 4 : people :  Aniket-Kumar  Jovan-Grant  Amit-Chitre  Julius-Ross    : %50 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Aniket-Kumar (18%)                 Jovan-Grant (53%)                  57     71
+
+Jovan-Grant (44%)                  Julius-Ross (45%)                  48     89
+
+Amit-Chitre (28%)                  Aniket-Kumar (16%)                 48     44
+
+
+###################################################
+
+23) 4 : people :  Erik-Gonzalez-Zamora  Sean-Robert-Kirby  Samuel-Horowitz  Brenden-Smith    : %66 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Erik-Gonzalez-Zamora (61%)         Samuel-Horowitz (38%)              63     99
+
+Erik-Gonzalez-Zamora (61%)         Sean-Robert-Kirby (37%)            76     98
+
+Samuel-Horowitz (59%)              Sean-Robert-Kirby (58%)           120    117
+
+Brenden-Smith (46%)                Erik-Gonzalez-Zamora (37%)         67     83
+
+
+###################################################
+
+24) 2 : people :  William-Fiedler  Vaishnavi-.    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Vaishnavi-. (40%)                  William-Fiedler (38%)              47     78
+
+
+###################################################
+
+25) 4 : people :  Akshat-Wadhwa  Jacob-Waligora  Jacob-Veit  Sai-Narayanan    : %50 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Jacob-Veit (31%)                   Jacob-Waligora (32%)               54     63
+
+Akshat-Wadhwa (29%)                Sai-Narayanan (27%)                44     56
+
+Akshat-Wadhwa (27%)                Jacob-Veit (23%)                   34     50
+
+
+###################################################
+
+26) 2 : people :  Ethan-Hall  Josephine-Cowles    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Ethan-Hall (71%)                   Josephine-Cowles (66%)            127    137
+
+
+###################################################
+
+27) 2 : people :  Luis-Ortega-Saure  Jack-Kettner    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Jack-Kettner (95%)                 Luis-Ortega-Saure (96%)            88    191
+
+
+###################################################
+
+28) 2 : people :  Lisa-Wu  Grant-Hamlin    : %100 collaboration-connection-copy 
+
+
+----------------------------------------------------------
+Grant-Hamlin (48%)                 Lisa-Wu (49%)                      49     97
+
