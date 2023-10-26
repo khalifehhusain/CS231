@@ -113,19 +113,19 @@ def adj_list():
 
  
         for line in file:
-            st.write(line)
-         #   if line[0].isdigit() or line[0].isalpha() or line[0]=="-":
-          #   
-           #      if line[0].isdigit():
-            #          st.write("-"*30)
-             #         x=line.split()
-              #        st.write(x[0]+"_ _"+x[1]+x[2]+x[3])
-               #       st.write("-"*30)
-                # elif line[0]=="M":
-                 #    
-                  #   x=line.split()
-                   #  st.write(x[0]+x[1]+x[2])
-                    # st.write(x[0]+x[1]+x[2]+x[3]+x[4])
+            
+            if line[0].isdigit() or line[0].isalpha() or line[0]=="-":
+             
+                 if line[0].isdigit():
+                      st.write("-"*30)
+                      x=line.split()
+                      st.write(x[0]+"_ _"+x[1]+x[2]+x[3])
+                      st.write("-"*30)
+                 elif line[0]=="M":
+                     
+                     x=line.split()
+                     st.write(x[0]+x[1]+x[2])
+                     st.write(x[0]+x[1]+x[2]+x[3]+x[4])
         file.close()
 
 
