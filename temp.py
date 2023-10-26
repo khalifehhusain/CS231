@@ -13,7 +13,7 @@ import os
 
 stt=os.getcwd()
 
-st.write(stt)
+st.write(stt+stt)
 
 st.write("##HELLO")
 
