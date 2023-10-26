@@ -60,13 +60,13 @@ def button(line):
 
 
 def cluster():
-    bottom_list_all=[]
-    url="http://moss.stanford.edu/results/6/7588194204467/match"
+            bottom_list_all=[]
+            url="http://moss.stanford.edu/results/6/7588194204467/match"
     
     
     
-    file = open(r"/mount/src/cs231/Moss_community_prc.txt","r")
-    if file:
+            file = open(r"/mount/src/cs231/Moss_community_prc.txt","r")
+
             i=0
             t="           "
             for line in file:
@@ -99,19 +99,19 @@ def cluster():
             #print(f"{x[0]+t+x[1] : <40}{x[2]+t+x[3] : <40}{x[4] : >6}")
             
             
-    file.close()
-    return bottom_list_all
+        file.close()
+        return bottom_list_all
     
 #bal=cluster()
 
 
 def adj_list():
-    ch=" "
-    
-    file = open(r"/mount/src/cs231/adj_file.txt","r")
-    
+        ch=" "
+        
+        file = open(r"/mount/src/cs231/adj_file.txt","r")
+        
 
-    if file:   
+ 
         for line in file:
             if line[0].isdigit() or line[0].isalpha() or line[0]=="-":
              
