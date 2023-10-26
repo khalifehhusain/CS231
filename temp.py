@@ -99,8 +99,8 @@ def cluster():
             #print(f"{x[0]+t+x[1] : <40}{x[2]+t+x[3] : <40}{x[4] : >6}")
             
             
-        file.close()
-        return bottom_list_all
+            file.close()
+            return bottom_list_all
     
 #bal=cluster()
 
