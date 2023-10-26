@@ -11,7 +11,9 @@ import numpy as np
 import os
 
 
-print(os.getcwd())
+stt=os.getcwd()
+
+st.write(stt)
 
 st.write("##HELLO")
 
