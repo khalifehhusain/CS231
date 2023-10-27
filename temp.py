@@ -37,11 +37,10 @@ def button(line):
     col[0]=temp[1][9:]
     
     x=temp[0].split()
-    st.write( "Cluster no  "+x[0][:-1]+" with ("+x[1]+") people")
-    
     
 
     ele=col.pop()
+    st.write( "Cluster no  "+x[0][:-1]+" with ("+x[1]+") people "+ele[2:])
 
     k=0
     while k<len(col):
@@ -57,7 +56,7 @@ def button(line):
                  k+=1
                  if k>= len(col):
                      break
-    st.write(ele[2:])
+   
     return button_list
 
 
