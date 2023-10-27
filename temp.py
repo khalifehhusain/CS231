@@ -67,7 +67,7 @@ def cluster():
     
     
     
-    file = open(r"C:\Users\Husain\Dropbox\dropox\231-Material\Moss\Moss_community_prc.txt","r")
+    file = open(r"/mount/src/cs231/Moss_community_prc.txt","r")
     if file:
             i=0
             t="           "
@@ -110,7 +110,7 @@ def cluster():
 def adj_list():
     ch=" "
     
-    file = open(r"C:\Users\Husain\Dropbox\dropox\231-Material\Moss\adj_file.txt","r")
+    file = open(r"/mount/src/cs231/adj_file.txt","r")
     
 
     if file:   
