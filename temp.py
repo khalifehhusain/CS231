@@ -11,14 +11,14 @@ import numpy as np
 import os
 
 
-st.write(os.getcwd())
 
 
-def func1(s):
+
+def func1():
     
-    st.write(s)
+    st.write("jkfgj")
     dictD={
-        'first column': [1, 2, 3, 4],
+        'first column': ["[MMMM: ](https://www.google.com/.html)", 2, 3, 4],
         'second column': [123, -20, 3, 24],
         'third column': [7 ,8 ,9, 10]}
 
@@ -57,6 +57,7 @@ def button(line):
                  k+=1
                  if k>= len(col):
                      break
+    st.write(ele[2:])
     return button_list
 
 
@@ -66,7 +67,7 @@ def cluster():
     
     
     
-    file = open(r"/mount/src/cs231/Moss_community_prc.txt","r")
+    file = open(r"C:\Users\Husain\Dropbox\dropox\231-Material\Moss\Moss_community_prc.txt","r")
     if file:
             i=0
             t="           "
@@ -85,8 +86,8 @@ def cluster():
                     
                     
                     bottom_list_all=bottom_list_all+button(line)
-                    txt = st.text_area(line[:6])
-                    
+                    txt = st.text_area(str(i))
+                    i+=1
                     
                 elif line[0]=="-":
                     
@@ -109,7 +110,7 @@ def cluster():
 def adj_list():
     ch=" "
     
-    file = open(r"/mount/src/cs231/adj_file.txt","r")
+    file = open(r"C:\Users\Husain\Dropbox\dropox\231-Material\Moss\adj_file.txt","r")
     
 
     if file:   
